@@ -1,0 +1,1269 @@
+pth: /home/seiyak/Documents/sse/test/lib/str/clen_test_data_66228 size: 66228 on rank: 0
+pth: /home/seiyak/Documents/sse/test/lib/str/clen_test_data_66228 size: 66228 on rank: 0
+pth: /home/seiyak/Documents/sse/test/lib/str/clen_test_data_66228 size: 66228 on rank: 0
+pth: /home/seiyak/Documents/sse/test/lib/str/clen_test_data_66228 size: 66228 on rank: 0
+rnk: 2 66228 bytes
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>regex - Counting total number of matches with grep instead of just how many lines match - Super User</title>
+    <link rel="shortcut icon" href="//cdn.sstatic.net/superuser/img/favicon.ico?v=c82914fca0a9">
+    <link rel="apple-touch-icon image_src" href="//cdn.sstatic.net/superuser/img/apple-touch-icon.png?v=0ad5b7a83e49">
+    <link rel="search" type="application/opensearchdescription+xml" title="Super User" href="/opensearch.xml">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@super_user" />
+    <meta name="twitter:domain" content="superuser.com"/>
+    <meta name="og:type" content="website" />
+    <meta name="og:image" content="http://cdn.sstatic.net/superuser/img/apple-touch-icon@2.png?v=e869e4459439"/>
+    <meta name="og:title" content="Counting total number of matches with grep instead of just how many lines match" />
+    <meta name="og:description" content="Does grep offer a way to count the total number of matches it makes?  The -c option only returns the number of lines that matched the regex, but in this case I have multiple matches per line.  
+" />
+    <meta name="og:url" content="http://superuser.com/questions/339522/counting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match"/>
+    <link rel="canonical" href="http://superuser.com/questions/339522/counting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match" />
+
+    
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="//cdn.sstatic.net/Js/stub.en.js?v=b15966ee8ffe"></script>
+    <link rel="stylesheet" type="text/css" href="//cdn.sstatic.net/superuser/all.css?v=c75e5ad55017">
+    
+    <link rel="alternate" type="application/atom+xml" title="Feed for question &#39;Counting total number of matches with grep instead of just how many lines match&#39;" href="/feeds/question/339522">
+    <script>
+        
+        StackExchange.ready(function () {
+            StackExchange.using("postValidation", function () {
+                StackExchange.postValidation.initOnBlurAndSubmit($('#post-form'), 2, 'answer');
+            });
+
+            
+            StackExchange.question.init({showAnswerHelp:true,totalCommentCount:0,shownCommentCount:0,highlightColor:'#BEB013',backgroundColor:'#FFF',questionId:339522});
+
+            styleCode();
+
+                StackExchange.realtime.subscribeToQuestion('3', '339522');
+            
+                    });
+    </script>
+
+
+    <script>
+        StackExchange.ready(function () {
+            StackExchange.realtime.init('wss://qa.sockets.stackexchange.com,ws://qa.sockets.stackexchange.com');
+            StackExchange.realtime.subscribeToInboxNotifications();
+                    StackExchange.realtime.subscribeToReputationNotifications('3');
+                StackExchange.realtime.subscribeToTopBarNotifications('3');
+        });
+    </script>
+    <script>
+        StackExchange.init({"locale":"en","stackAuthUrl":"https://stackauth.com","serverTime":1396880969,"networkMetaHostname":"meta.stackoverflow.com","styleCode":true,"enableUserHovercards":true,"site":{"name":"Super User","description":"Q&A for computer enthusiasts and power users","isNoticesTabEnabled":true,"recaptchaPublicKey":"6LcDNwYAAAAAAG_X1rC8kTtLBP6XS2Ym1N0n9kSY","recaptchaAudioLang":"en","enableSocialMediaInSharePopup":true},"user":{"fkey":"1795fa8bd9f6c007a4cc872eebb9cfc7","isAnonymous":true,"ab":{"welcome_email":{"v":"2","g":2}}}});
+        StackExchange.using.setCacheBreakers({"js/prettify-full.en.js":"886b9ff832f7","js/moderator.en.js":"852a9590ae2d","js/full-anon.en.js":"fc385eb6aa30","js/full.en.js":"e422ebed4d70","js/wmd.en.js":"d0c0242c6b8c","js/third-party/jquery.autocomplete.min.js":"e5f01e97f7c3","js/third-party/jquery.autocomplete.min.en.js":"","js/mobile.en.js":"4f74cbb930ae","js/help.en.js":"ceae85b045a1","js/tageditor.en.js":"cbe76782fb70","js/tageditornew.en.js":"8f9777812eab","js/inline-tag-editing.en.js":"1a5cabd8e30a","js/revisions.en.js":"ce4a692d0d20","js/review.en.js":"193fb7ea79c7","js/tagsuggestions.en.js":"418b6018565f","js/post-validation.en.js":"9c02eacb5c9a","js/explore-qlist.en.js":"8b8b631bd679","js/events.en.js":"265f4b9583df"});
+        StackExchange.using("gps", function() {
+             StackExchange.gps.init(true);
+        });
+        
+    </script>
+    
+        <script>
+            StackExchange.ready(function () {
+                $('#nav-tour').click(function () {
+                    StackExchange.using("gps", function() {
+                        StackExchange.gps.track("aboutpage.click", { aboutclick_location: "headermain" }, true);
+                    });
+                });
+            });
+        </script>
+</head>
+<body class="question-page new-topbar">
+    <noscript><div id="noscript-padding"></div></noscript>
+    <div id="notify-container"></div>
+    <div id="overlay-header"></div>
+    <div id="custom-header"></div>
+<div class="topbar">
+    <div class="topbar-wrapper">
+        
+        <div class="js-topbar-dialog-corral">
+
+<div class="topbar-dialog siteSwitcher-dialog dno">
+    <div class="header">
+        <h3><a href="//superuser.com">current community</a></h3>
+    </div>
+    <div class="modal-content current-site-container">
+        <ul class="current-site">
+                <li>
+                        <div class="related-links">
+            <a href="http://chat.stackexchange.com"     data-gps-track="site_switcher.click({ item_type:6 })"
+>chat</a>
+                    <a href="http://blog.superuser.com/"     data-gps-track="site_switcher.click({ item_type:7 })"
+>blog</a>
+            </div>
+
+
+
+
+    <a href="//superuser.com"
+       class="current-site-link site-link js-gps-track"
+       data-id="3"
+       data-gps-track="
+        site_switcher.click({ item_type:3 })">
+        <div class="site-icon favicon favicon-superuser" title="Super User"></div>
+        Super User
+    </a>
+
+                </li>
+                <li class="related-site">
+                        <div class="L-shaped-icon-container">
+        <span class="L-shaped-icon"></span>
+    </div>
+
+                    
+
+
+
+    <a href="http://meta.superuser.com"
+       class="site-link js-gps-track"
+       data-id="77"
+       data-gps-track="
+            site.switch({ target_site:77, item_type:3 }),
+        site_switcher.click({ item_type:4 })">
+        <div class="site-icon favicon favicon-superusermeta" title="Meta Super User"></div>
+        Meta Super User
+    </a>
+
+                </li>
+                    </ul>
+    </div>
+    
+    <div class="header" id="your-communities-header">
+        <h3>
+your communities        </h3>
+            
+    </div>
+    <div class="modal-content" id="your-communities-section">
+            
+            <div class="call-to-login">
+                        <a href="https://superuser.com/users/signup?returnurl=http%3a%2f%2fsuperuser.com%2fquestions%2f339522%2fcounting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match" class="js-gps-track"     data-gps-track="site_switcher.click({ item_type:10 })"
+>Sign up</a>
+                    or
+                    <a href="https://superuser.com/users/login?returnurl=http%3a%2f%2fsuperuser.com%2fquestions%2f339522%2fcounting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match" class="js-gps-track"     data-gps-track="site_switcher.click({ item_type:11 })"
+>log in</a>
+
+                    to customize your list.
+            </div>
+    </div>
+    
+    <div class="header">
+        <h3><a href="//stackexchange.com/sites">more stack exchange communities</a></h3>
+    </div>
+    <div class="modal-content">
+            <div class="child-content"></div>
+    </div>
+</div>
+        </div>
+
+        <div class="network-items">
+            
+            <a href="//stackexchange.com" 
+               class="topbar-icon icon-site-switcher yes-hover js-site-switcher-button js-gps-track"
+               data-gps-track="site_switcher.show"
+               title="A list of all 121 Stack Exchange sites">
+                <span class="hidden-text">Stack Exchange</span>
+            </a>
+            
+        </div>
+
+        <div class="topbar-links">
+            
+                <div class="links-container">
+                    <span class="topbar-menu-links">
+                            <a href="https://superuser.com/users/signup?returnurl=http%3a%2f%2fsuperuser.com%2fquestions%2f339522%2fcounting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match" class="login-link">sign up</a>
+                            <a href="https://superuser.com/users/login?returnurl=http%3a%2f%2fsuperuser.com%2fquestions%2f339522%2fcounting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match" class="login-link">log in</a>
+                            <a href="/tour">tour</a>
+
+                            <a href="#" class="icon-help js-help-button" title="Help Center and other resources">
+        help
+        <span class="triangle"></span>
+    </a>
+    <div class="topbar-dialog help-dialog js-help-dialog dno">
+        <div class="modal-content">
+            <ul>
+                <li>
+                    <a href="/tour"     class="js-gps-track" data-gps-track="help_popup.click({ item_type:1 })"
+>
+                        Tour
+                        <span class="item-summary">
+                            Start here for a quick overview of the site
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/help"     class="js-gps-track" data-gps-track="help_popup.click({ item_type:4 })"
+>
+                        Help Center
+                        <span class="item-summary">
+                            Detailed answers to any questions you might have
+                        </span>
+                    </a>
+                </li>
+                    <li>
+                        <a href="//meta.superuser.com"     class="js-gps-track" data-gps-track="help_popup.click({ item_type:2 })"
+>
+                            Meta
+                            <span class="item-summary">
+                                Discuss the workings and policies of this site
+                            </span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+
+                    </span>
+                </div>
+
+			<div class="search-container">
+                <form id="search" action="/search" method="get" autocomplete="off">
+                    <input name="q" type="text" placeholder="search" value="" tabindex="1" autocomplete="off" maxlength="240" />
+                </form>
+			</div>
+            	
+        </div>      
+    </div> 
+</div>
+<script>
+    StackExchange.ready(function () {
+        //topbar.init();
+        StackExchange.topbar.init();
+    });
+</script>
+    <div class="container">
+        <div id="header" class=headeranon>
+            <br class="cbt">
+            <div id="hlogo">
+                <a href="/">
+                    Super User
+                </a>
+            </div>
+            <div id="hmenus">
+                <div class="nav mainnavs mainnavsanon">
+                    <ul>
+                            <li class="youarehere"><a id="nav-questions" href="/questions">Questions</a></li>
+                            <li><a id="nav-tags" href="/tags">Tags</a></li>
+                            <li><a id="nav-tour" href="/about">Tour</a></li>
+                            <li><a id="nav-users" href="/users">Users</a></li>
+                    </ul>
+                </div>
+                <div class="nav askquestion">
+                    <ul>
+                        <li>
+                            <a id="nav-askquestion"  href="/questions/ask">Ask Question</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+        <div id="content">
+            
+
+<div itemscope itemtype="http://schema.org/Article">
+	<link itemprop="image" href="//cdn.sstatic.net/superuser/img/apple-touch-icon.png">
+			<!--googleoff: all-->
+<div id="herobox-mini">
+    <div id="hero-content">
+        <span id="controls">
+            <a href="/about" id="tell-me-more" class="button">Take the 2-minute tour</a>
+            <span id="close"><a title="click to dismiss">&times;</a></span>
+        </span>
+        <div id="blurb">
+            Super User is a question and answer site for computer enthusiasts and power users. It&#39;s 100% free, no registration required.
+        </div>        
+    </div>
+    <script>
+        $('#tell-me-more').click(function () {
+            var clickSource = $("body").attr("class") + '-mini';
+            if ($("body").hasClass("questions-page")) {
+                clickSource = 'questionpagemini';
+            } else if ($("body").hasClass("question-page")) {
+                clickSource = 'questionpagemini';
+            } else if ($("body").hasClass("home-page")) {
+                clickSource = 'homepagemini';
+            }
+
+            StackExchange.using("gps", function () {
+                StackExchange.gps.track("aboutpage.click", { aboutclick_location: clickSource } , true);
+            });
+        });
+        $('#herobox-mini #close').click(function () {
+            StackExchange.using("gps", function () {
+                StackExchange.gps.track("hero.action", { hero_action_type: "close" }, true);
+            });
+            $.cookie("hero", "none", { path: "/" });
+            var $hero = $("#herobox-mini");
+            $hero.slideUp('fast', function () { $hero.remove(); });
+            return false;
+        });
+    </script>
+</div>
+			<!--googleon: all-->
+			<div id="question-header">
+			<h1 itemprop="name"><a href="/questions/339522/counting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match" class="question-hyperlink">Counting total number of matches with grep instead of just how many lines match</a></h1>
+		</div>
+			<div id="mainbar">
+
+			
+
+<div class="question" data-questionid="339522"  id="question">
+    
+    <script>
+                var ados = ados || {};ados.run = ados.run || [];
+                ados.run.push(function() { ados_add_placement(22,8476,"adzerk1400362903",4).setZone(46) ; });                    
+            </script>
+            <div class="everyonelovesstackoverflow" id="adzerk1400362903">
+            </div>    <table>
+        <tr>
+            <td class="votecell">
+                
+
+<div class="vote">
+    <input type="hidden" name="_id_" value="339522">
+    <a class="vote-up-off" title="This question shows research effort; it is useful and clear">up vote</a>
+    <span class="vote-count-post ">11</span>
+    <a class="vote-down-off" title="This question does not show any research effort; it is unclear or not useful">down vote</a>
+    
+    <a class="star-off" href="#" title="This is a favorite question (click again to undo)">favorite</a>
+    <div class="favoritecount"><b>2</b></div>   
+
+</div>
+
+            </td>
+            
+<td class="postcell">
+<div>
+    <div class="post-text" itemprop="description">
+
+        <p>Does grep offer a way to count the total number of matches it makes?  The -c option only returns the number of lines that matched the regex, but in this case I have multiple matches per line.  </p>
+
+    </div>
+    <div class="post-taglist">
+        <a href="/questions/tagged/regex" class="post-tag" title="show questions tagged &#39;regex&#39;" rel="tag">regex</a> <a href="/questions/tagged/linux" class="post-tag" title="show questions tagged &#39;linux&#39;" rel="tag">linux</a> <a href="/questions/tagged/unix" class="post-tag" title="show questions tagged &#39;unix&#39;" rel="tag">unix</a> <a href="/questions/tagged/command-line" class="post-tag" title="show questions tagged &#39;command-line&#39;" rel="tag">command-line</a> <a href="/questions/tagged/grep" class="post-tag" title="show questions tagged &#39;grep&#39;" rel="tag">grep</a> 
+    </div>
+    <table class="fw">
+    <tr>
+    <td class="vt">
+<div class="post-menu"><a href="/q/339522" title="short permalink to this question" class="short-link" id="link-post-339522">share</a><span class="lsep">|</span><a href="/posts/339522/edit" class="suggest-edit-post" title="">improve this question</a></div>        
+    </td>
+    <td align="right" class="post-signature">
+<div class="user-info user-hover">
+    <div class="user-action-time">
+        <a href="/posts/339522/revisions" title="show all edits to this post">edited <span title="2011-09-29 16:37:23Z" class="relativetime">Sep 29 '11 at 16:37</span></a>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/6574/studiohack"><div><img src="https://www.gravatar.com/avatar/3c5d199febb13c2017864513821f1b09?s=32&d=identicon&r=PG" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/6574/studiohack">studiohack</a><span class="mod-flair" title="moderator">&#9830;</span><br>
+        <span class="reputation-score" title="reputation score " dir="ltr">9,754</span><span title="13 gold badges"><span class="badge1"></span><span class="badgecount">13</span></span><span title="51 silver badges"><span class="badge2"></span><span class="badgecount">51</span></span><span title="98 bronze badges"><span class="badge3"></span><span class="badgecount">98</span></span>
+    </div>
+</div>    </td>
+    <td class="post-signature owner">
+        <div class="user-info ">
+    <div class="user-action-time">
+        asked <span title="2011-09-24 21:02:49Z" class="relativetime">Sep 24 '11 at 21:02</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/7285/william"><div><img src="https://www.gravatar.com/avatar/12d2ccd9a6a85c77cb0d9565ed4bdea1?s=32&d=identicon&r=PG" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/7285/william">William</a><br>
+        <span class="reputation-score" title="reputation score " dir="ltr">262</span><span title="2 silver badges"><span class="badge2"></span><span class="badgecount">2</span></span><span title="9 bronze badges"><span class="badge3"></span><span class="badgecount">9</span></span>
+    </div>
+</div>
+    </td>
+    </tr>
+    </table>
+</div>
+</td>
+        </tr>
+<tr>
+    <td class="votecell"></td>
+    <td>
+	    <div id="comments-339522" class="comments dno" data-localized="true">
+		    <table>
+			    <tbody data-remaining-comments-count="0" 
+			           data-addlink-html="add comment" 
+			           data-addlink-disabled="true">
+					    <tr><td></td><td></td></tr>
+			    </tbody>
+		    </table>
+	    </div>
+			<a id="comments-link-339522" data-rep=50 data-anon=true
+			   class="comments-link disabled-link" 
+			   title="Use comments to ask for more information or suggest improvements. Avoid answering questions in comments." 
+				>add comment</a>
+    </td>
+</tr>            </table>    
+</div>
+<div class="question-status">
+        <h2>                    <b>migrated</b> from <a href="//stackoverflow.com/posts/7541903/revisions" title="counting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match">stackoverflow.com</a> <span title="2011-09-25 02:09:05Z" class="relativetime">Sep 25 '11 at 2:09</span>
+</h2>
+        <p>This question came from our site for professional and enthusiast programmers.</p>
+    </div>
+
+			<div id="answers">
+
+				<a name="tab-top"></a>
+				<div id="answers-header">
+					<div class="subheader answers-subheader">
+						<h2>
+								2 Answers
+						</h2>
+						<div>
+							<div id="tabs">
+        <a href="/questions/339522/counting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match?answertab=active#tab-top" title="Answers with the latest activity first">active</a>
+        <a href="/questions/339522/counting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match?answertab=oldest#tab-top" title="Answers in the order they were provided">oldest</a>
+        <a class="youarehere" href="/questions/339522/counting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match?answertab=votes#tab-top" title="Answers with the highest score first">votes</a>
+</div>
+						</div>
+					</div>    
+				</div>    
+
+
+
+
+  
+<a name="339523"></a>
+<div id="answer-339523" class="answer accepted-answer" data-answerid="339523" >
+    <table>
+        <tr>
+            <td class="votecell">
+                
+
+<div class="vote">
+    <input type="hidden" name="_id_" value="339523">
+    <a class="vote-up-off" title="This answer is useful">up vote</a>
+    <span class="vote-count-post ">15</span>
+    <a class="vote-down-off" title="This answer is not useful">down vote</a>
+    
+
+
+        <span class="vote-accepted-on load-accepted-answer-date" title="loading when this answer was accepted...">accepted</span>
+</div>
+
+            </td>
+            
+
+
+<td class="answercell">
+    <div class="post-text">
+            <p>try this:</p>
+
+<pre><code>grep -o -E "your expression" file |wc -l
+</code></pre>
+
+<p>well, -E is just an example, it could be -P, -F etc. point is -o</p>
+
+<p>test:</p>
+
+<pre><code>kent$  echo "abc xxx yyy"|grep -cP "[a-z]{3}"      
+1
+
+kent$  echo "abc xxx yyy"|grep -oP "[a-z]{3}"|wc -l
+3
+</code></pre>
+
+    </div>
+    <table class="fw">
+    <tr>
+    <td class="vt">
+<div class="post-menu"><a href="/a/339523" title="short permalink to this answer" class="short-link" id="link-post-339523">share</a><span class="lsep">|</span><a href="/posts/339523/edit" class="suggest-edit-post" title="">improve this answer</a></div>                    </td>
+            
+
+
+    <td align="right" class="post-signature">   
+       
+
+    <div class="user-info ">
+    <div class="user-action-time">
+        answered <span title="2011-09-24 21:18:38Z" class="relativetime">Sep 24 '11 at 21:18</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/209894/kent"><div><img src="https://www.gravatar.com/avatar/c6c28b2e0205c9b87004ebaade245ff1?s=32&d=identicon&r=PG" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/209894/kent">Kent</a><br>
+        <span class="reputation-score" title="reputation score " dir="ltr">611</span><span title="2 silver badges"><span class="badge2"></span><span class="badgecount">2</span></span><span title="4 bronze badges"><span class="badge3"></span><span class="badgecount">4</span></span>
+    </div>
+</div>
+    </td>
+    </tr>
+    </table>
+</td>
+        </tr>
+
+<tr>
+    <td class="votecell"></td>
+    <td>
+	    <div id="comments-339523" class="comments" data-localized="true">
+		    <table>
+			    <tbody data-remaining-comments-count="0" 
+			           data-addlink-html="add comment" 
+			           data-addlink-disabled="true">
+
+    <tr id="comment-370988" class="comment">
+        <td>
+            <table>
+                <tbody>
+                    <tr>
+                        <td class=" comment-score">
+                                &nbsp;&nbsp;
+                        </td>
+                        <td>
+                                &nbsp;
+                        </td>
+                    </tr>
+                </tbody>
+            </table>   
+        </td>
+        <td class="comment-text">
+            <div style="display: block;" class="comment-body">
+                <span class="comment-copy">excellent, that worked.</span>
+                &ndash;&nbsp;
+                    <a href="/users/7285/william"
+                       title="262 reputation"
+                       class="comment-user owner">William</a>
+                <span class="comment-date" dir="ltr"><span title="2011-09-24 21:24:18Z" class="relativetime-clean">Sep 24 '11 at 21:24</span></span>
+                                                                            </div>
+        </td>
+    </tr>
+			    </tbody>
+		    </table>
+	    </div>
+			<a id="comments-link-339523" data-rep=50 data-anon=true
+			   class="comments-link disabled-link" 
+			   title="Use comments to ask for more information or suggest improvements. Avoid comments like “+1” or “thanks”." 
+				>add comment</a>
+    </td>
+</tr>
+    </table>
+</div>
+<script>
+                var ados = ados || {};ados.run = ados.run || [];
+                ados.run.push(function() { ados_add_placement(22,8476,"adzerk678301113",4).setZone(48) ; });                    
+            </script>
+            <div class="everyonelovesstackoverflow" id="adzerk678301113">
+            </div>
+  
+<a name="339524"></a>
+<div id="answer-339524" class="answer" data-answerid="339524" >
+    <table>
+        <tr>
+            <td class="votecell">
+                
+
+<div class="vote">
+    <input type="hidden" name="_id_" value="339524">
+    <a class="vote-up-off" title="This answer is useful">up vote</a>
+    <span class="vote-count-post ">4</span>
+    <a class="vote-down-off" title="This answer is not useful">down vote</a>
+    
+
+
+</div>
+
+            </td>
+            
+
+
+<td class="answercell">
+    <div class="post-text">
+            <p>There is a -o flag which indicates that only the matched subsection of the line should get printed.</p>
+
+<p>Use that in conjunction with wc -l:</p>
+
+<pre><code>grep -o "part of line" | wc -l
+</code></pre>
+
+<p><a href="http://unixhelp.ed.ac.uk/CGI/man-cgi?grep" rel="nofollow">man grep</a> explains it as well.</p>
+
+    </div>
+    <table class="fw">
+    <tr>
+    <td class="vt">
+<div class="post-menu"><a href="/a/339524" title="short permalink to this answer" class="short-link" id="link-post-339524">share</a><span class="lsep">|</span><a href="/posts/339524/edit" class="suggest-edit-post" title="">improve this answer</a></div>                    </td>
+            
+
+
+    <td align="right" class="post-signature">   
+       
+
+    <div class="user-info ">
+    <div class="user-action-time">
+        answered <span title="2011-09-24 21:22:52Z" class="relativetime">Sep 24 '11 at 21:22</span>
+    </div>
+    <div class="user-gravatar32">
+        <a href="/users/89548/chown"><div><img src="https://www.gravatar.com/avatar/999c54a7631d85ea49d7ee3a9471d180?s=32&d=identicon&r=PG" alt="" width="32" height="32"></div></a>
+    </div>
+    <div class="user-details">
+        <a href="/users/89548/chown">chown</a><br>
+        <span class="reputation-score" title="reputation score " dir="ltr">682</span><span title="4 silver badges"><span class="badge2"></span><span class="badgecount">4</span></span><span title="10 bronze badges"><span class="badge3"></span><span class="badgecount">10</span></span>
+    </div>
+</div>
+    </td>
+    </tr>
+    </table>
+</td>
+        </tr>
+
+<tr>
+    <td class="votecell"></td>
+    <td>
+	    <div id="comments-339524" class="comments dno" data-localized="true">
+		    <table>
+			    <tbody data-remaining-comments-count="0" 
+			           data-addlink-html="add comment" 
+			           data-addlink-disabled="true">
+					    <tr><td></td><td></td></tr>
+			    </tbody>
+		    </table>
+	    </div>
+			<a id="comments-link-339524" data-rep=50 data-anon=true
+			   class="comments-link disabled-link" 
+			   title="Use comments to ask for more information or suggest improvements. Avoid comments like “+1” or “thanks”." 
+				>add comment</a>
+    </td>
+</tr>
+    </table>
+</div>
+									<a name='new-answer'></a>
+						<form id="post-form" action="/questions/339522/answer/submit" method="post"  class="post-form">
+							<input type="hidden" id="post-id" value="339522" />
+							<h2 class="space">Your Answer</h2>
+
+
+
+    
+
+<script>
+    StackExchange.ready(function() {
+        initTagRenderer("".split(" "), "".split(" "));
+         
+        prepareEditor({
+            heartbeatType: 'answer',
+            bindNavPrevention: true,
+            postfix: "",
+            onDemand: true,
+            discardSelector: ".discard-answer"
+            ,immediatelyShowMarkdownHelp:true
+        });
+        
+
+    });  
+</script>
+
+
+<div id="post-editor" class="post-editor">
+
+    <div style="position: relative;">     
+        <div class="wmd-container">
+            <div id="wmd-button-bar" class="wmd-button-bar"></div>
+            <textarea id="wmd-input" class="wmd-input" name="post-text" cols="92" rows="15" tabindex="101" data-min-length=""></textarea>
+        </div>
+    </div>
+
+    <div class="fl" style="margin-top: 8px; height:24px;">&nbsp;</div>
+    <div id="draft-saved" class="draft-saved community-option fl" style="margin-top: 8px; height:24px; display:none;">draft saved</div>
+
+    <div id="draft-discarded" class="draft-discarded community-option fl" style="margin-top: 8px; height:24px; display:none;">draft discarded</div>
+
+
+
+    <div id="wmd-preview" class="wmd-preview"></div>
+    <div></div>
+    <div class="edit-block">
+        <input id="fkey" name="fkey" type="hidden" value="1795fa8bd9f6c007a4cc872eebb9cfc7">
+        <input id="author" name="author" type="text">
+    </div>
+</div>
+							<div style="position: relative;">
+								
+            <div class="form-item dno new-post-login">
+        
+                <div class="new-login-form">
+                    <div class="new-login-left">
+                        <h3>Sign up or <a id="login-link" href="/users/login?returnurl=%2fquestions%2f339522%2fcounting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match%23new-answer">log in</a></h3>
+                        <script>
+                            StackExchange.ready(function () {
+                                StackExchange.helpers.onClickDraftSave('#login-link');
+                            });
+                        </script>
+                        <div class="preferred-login google-login">
+                            <p><span class="icon"></span><span>Sign up using Google</span></p>
+                        </div>
+                        <div class="preferred-login facebook-login">
+                            <p><span class="icon"></span><span>Sign up using Facebook</span></p>
+                        </div>
+                        <div class="preferred-login stackexchange-login">
+                            <p><span class="icon"></span><span>Sign up using Stack Exchange</span></p>
+                        </div>
+                    </div>
+                    <input type="hidden" name="manual-openid" class="manual-openid" />
+                    <input type="hidden" name="use-facebook" class="use-facebook" value="false" />
+                    <input type="button" class="submit-openid" value="Submit" style="display:none" />
+                    <div class="new-login-right">
+                                <h3>Post as a guest</h3>
+    <div class="form-item">
+        <table>
+        <tr>
+                    <script>
+                StackExchange.ready(function () {
+                    StackExchange.helpers.bindHelpOverlayEvents($('.vm input'));
+                });
+            </script>
+            <td class="vm">
+                <div>
+                    <label for="display-name">Name</label>
+                    <input id="display-name" name="display-name" type="text" size="30" maxlength="30" value="" tabindex="105">
+                </div>
+                <div>
+                    <label for="m-address">Email</label>
+                    <input id="m-address" name="m-address" type="text" size="30" maxlength="100" value="" tabindex="106">
+                    <span class="edit-field-overlay">required, but not shown</span>
+                </div>
+            </td>
+        </tr>
+        </table>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+            <script>
+                StackExchange.ready(
+                    function () {
+                        StackExchange.openid.initPostLogin('.new-post-login', '%2fquestions%2f339522%2fcounting-total-number-of-matches-with-grep-instead-of-just-how-many-lines-match%23new-answer');
+                    }
+                );
+            </script>
+            <noscript>
+                        <h3>Post as a guest</h3>
+    <div class="form-item">
+        <table>
+        <tr>
+                    <script>
+                StackExchange.ready(function () {
+                    StackExchange.helpers.bindHelpOverlayEvents($('.vm input'));
+                });
+            </script>
+            <td class="vm">
+                <div>
+                    <label for="display-name">Name</label>
+                    <input id="display-name" name="display-name" type="text" size="30" maxlength="30" value="" tabindex="105">
+                </div>
+                <div>
+                    <label for="m-address">Email</label>
+                    <input id="m-address" name="m-address" type="text" size="30" maxlength="100" value="" tabindex="106">
+                    <span class="edit-field-overlay">required, but not shown</span>
+                </div>
+            </td>
+        </tr>
+        </table>
+    </div>
+
+            </noscript>
+							</div>
+           
+															<div class="form-submit cbt">
+									<input id="submit-button" type="submit" value="Post Your Answer" tabindex="110">
+									<a href="#" class="discard-answer dno">discard</a>
+
+<p class="privacy-policy-agreement">
+By posting your answer, you agree to the <a href='http://stackexchange.com/legal/privacy-policy' target='_blank'>privacy policy</a> and <a href='http://stackexchange.com/legal/terms-of-service' target='_blank'>terms of service</a>.</p>
+<input type="hidden" name="legalLinksShown" value="1" />								</div>
+						</form>
+
+
+
+						<h2 class="bottom-notice">
+Not the answer you&#39;re looking for?							Browse other questions tagged <a href="/questions/tagged/regex" class="post-tag" title="show questions tagged &#39;regex&#39;" rel="tag">regex</a> <a href="/questions/tagged/linux" class="post-tag" title="show questions tagged &#39;linux&#39;" rel="tag">linux</a> <a href="/questions/tagged/unix" class="post-tag" title="show questions tagged &#39;unix&#39;" rel="tag">unix</a> <a href="/questions/tagged/command-line" class="post-tag" title="show questions tagged &#39;command-line&#39;" rel="tag">command-line</a> <a href="/questions/tagged/grep" class="post-tag" title="show questions tagged &#39;grep&#39;" rel="tag">grep</a>  or <a href="/questions/ask">ask your own question</a>.						</h2>
+			</div>
+		</div>
+				<div id="sidebar" class="show-votes">
+						    <div class="module question-stats">
+			        <table id="qinfo">
+			            <tr>
+			                <td>
+			                    <p class="label-key">asked</p>
+			                </td>
+			                <td style="padding-left: 10px">
+			                    <p class="label-key" title="2011-09-24 21:02:49Z"><b>2 years ago</b></p>
+			                </td>
+			            </tr>
+			            <tr>
+			                <td>
+			                    <p class="label-key">viewed</p>
+			                </td>
+
+			                <td style="padding-left: 10px">
+			                    <p class="label-key">
+			                        <b>6111 times</b>
+			                    </p>
+			                </td>
+			            </tr>
+			                <tr>
+			                    <td>
+			                        <p class="label-key">active</p>
+			                    </td>
+			                    <td style="padding-left: 10px">
+			                        <p class="label-key"><b><a href="?lastactivity" class="lastactivity-link" title="2011-09-29 16:37:23Z">2 years ago</a></b></p>
+			                    </td>
+			                </tr>
+			        </table>
+			    </div>
+						
+			<script>
+                var ados = ados || {};ados.run = ados.run || [];
+                ados.run.push(function() { ados_add_placement(22,8476,"adzerk682086827",17).setZone(47) ; });                    
+            </script>
+            <div class="everyonelovesstackoverflow" id="adzerk682086827">
+            </div>
+			  
+    
+            
+
+				<div class="module sidebar-related">
+					<h4 id="h-related">Related</h4>
+                    <div class="related js-gps-related-questions" data-tracker="rq=1">
+                        <div class="spacer">
+<a href="/q/140770" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes default">3
+    </div>
+</a><a href="/questions/140770/how-to-grep-a-line-start-with-using-grep" class="question-hyperlink">How to grep a line start with &ldquo;*&rdquo; using grep</a>
+</div>
+<div class="spacer">
+<a href="/q/261543" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes answered-accepted default">1
+    </div>
+</a><a href="/questions/261543/bash-grep-question-how-to-grep-for-a-line-that-has-the-same-number-you-both" class="question-hyperlink">(bash) Grep question - how to grep for a line that has the same number you both need and don&#39;t need</a>
+</div>
+<div class="spacer">
+<a href="/q/300712" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes answered-accepted default">7
+    </div>
+</a><a href="/questions/300712/is-there-a-grep-like-utility-to-match-strings-instead-of-lines" class="question-hyperlink">Is there a `grep`-like utility to match strings instead of lines?</a>
+</div>
+<div class="spacer">
+<a href="/q/353898" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes default">0
+    </div>
+</a><a href="/questions/353898/how-to-use-grep-in-unix-command-line" class="question-hyperlink">How to use Grep in Unix command line?</a>
+</div>
+<div class="spacer">
+<a href="/q/448351" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes answered-accepted default">3
+    </div>
+</a><a href="/questions/448351/how-to-set-line-length-limit-when-using-grep-filter-result-by-line-length" class="question-hyperlink">How to set line length limit when using grep (Filter result by line length)?</a>
+</div>
+<div class="spacer">
+<a href="/q/452095" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes answered-accepted default">3
+    </div>
+</a><a href="/questions/452095/matching-a-number-sequence-in-grep" class="question-hyperlink">Matching a number sequence in grep</a>
+</div>
+<div class="spacer">
+<a href="/q/561700" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes answered-accepted default">2
+    </div>
+</a><a href="/questions/561700/get-everything-on-line-but-match-with-grep" class="question-hyperlink">Get everything on line but match with grep</a>
+</div>
+<div class="spacer">
+<a href="/q/614320" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes answered-accepted default">0
+    </div>
+</a><a href="/questions/614320/search-files-for-text-matching-format-of-a-unix-directory" class="question-hyperlink">Search files for text matching format of a Unix directory</a>
+</div>
+<div class="spacer">
+<a href="/q/617860" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes default">0
+    </div>
+</a><a href="/questions/617860/linux-output-line-numbers-where-string-match-appears" class="question-hyperlink">Linux output line numbers where string match appears</a>
+</div>
+<div class="spacer">
+<a href="/q/640850" title="Vote score (upvotes - downvotes)">
+    <div class="answer-votes answered-accepted default">2
+    </div>
+</a><a href="/questions/640850/what-does-really-mean-null-string" class="question-hyperlink">What does really mean null string?</a>
+</div>
+
+                    </div>
+				</div>
+            
+<div id="hot-network-questions" class="module">
+    <h4>
+        <a href="//stackexchange.com/questions?tab=hot" 
+           class="js-gps-track" 
+           data-gps-track="posts_hot_network.click({ item_type:1, location:11 })">
+            Hot Network Questions
+        </a>
+    </h4>
+    <ul>
+            <li >
+                <div class="favicon favicon-stackoverflow" title="Stack Overflow"></div><a href="http://stackoverflow.com/questions/22881465/what-do-these-new-c-sharp-6-features-do" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:1 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    What do these new C# 6 features do?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-workplace" title="The Workplace Stack Exchange"></div><a href="http://workplace.stackexchange.com/questions/22258/my-boss-wants-to-do-personal-activities-together-how-can-i-maintain-work-life-b" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:423 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    My boss wants to do personal activities together. How can I maintain work-life balance without negatively affecting our work relationship?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-gaming" title="Arqade"></div><a href="http://gaming.stackexchange.com/questions/163202/game-over-if-all-crew-dead-but-have-cloning-bay" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:41 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Game Over if all crew dead but have cloning bay?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-serverfault" title="Server Fault"></div><a href="http://serverfault.com/questions/587102/monday-morning-mistake-sudo-rm-rf-no-preserve-root" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:2 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Monday morning mistake: sudo rm -rf --no-preserve-root /
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-salesforce" title="Salesforce Stack Exchange"></div><a href="http://salesforce.stackexchange.com/questions/32052/dynamically-create-filters-based-on-object-fields" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:459 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Dynamically create filters based on object fields
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-physics" title="Physics Stack Exchange"></div><a href="http://physics.stackexchange.com/questions/107171/why-can-two-or-more-electric-field-lines-never-cross" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:151 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Why can two (or more) electric field lines never cross?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-security" title="Information Security Stack Exchange"></div><a href="http://security.stackexchange.com/questions/54974/what-methods-can-be-used-to-prevent-mistyped-usernames" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:162 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    What methods can be used to prevent mistyped usernames?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-movies" title="Movies &amp; TV Stack Exchange"></div><a href="http://movies.stackexchange.com/questions/18580/why-did-the-dude-go-to-the-doctor" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:367 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Why did The Dude go to the doctor?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-unix" title="Unix &amp; Linux Stack Exchange"></div><a href="http://unix.stackexchange.com/questions/123493/disable-daylight-saving-time-in-debian-linux" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:106 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Disable daylight saving time in Debian Linux
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-aviation" title="Aviation Stack Exchange"></div><a href="http://aviation.stackexchange.com/questions/3096/efficient-antennas-for-aviation-black-boxes" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:528 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Efficient antennas for aviation black boxes
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-english" title="English Language &amp; Usage Stack Exchange"></div><a href="http://english.stackexchange.com/questions/161987/15-strong-armed-gang-meaning" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:97 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    15-strong armed gang - meaning
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-matheducators" title="Mathematics Educators Stack Exchange"></div><a href="http://matheducators.stackexchange.com/questions/1325/impressive-common-misleading-interpretations-in-statistics-to-make-students-awar" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:548 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Impressive common misleading interpretations in statistics to make students aware of
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-apple" title="Ask Different"></div><a href="http://apple.stackexchange.com/questions/126761/way-to-logout-a-user-from-command-line-in-os-x-10-9" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:118 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    way to logout a user from command line in os x 10.9
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-salesforce" title="Salesforce Stack Exchange"></div><a href="http://salesforce.stackexchange.com/questions/32040/passing-multiple-methods-into-apex-rendered-attribute" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:459 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Passing multiple methods into Apex &#39;rendered&#39; attribute
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-ell" title="English Language Learners Stack Exchange"></div><a href="http://ell.stackexchange.com/questions/20740/a-set-up-which-is-intended-to-make-fun-of-someone" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:481 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    A set-up which is intended to make fun of someone
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-unix" title="Unix &amp; Linux Stack Exchange"></div><a href="http://unix.stackexchange.com/questions/123457/what-happens-when-we-type-a-simple-command-on-shell" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:106 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    What happens when we type a simple command on shell?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-ell" title="English Language Learners Stack Exchange"></div><a href="http://ell.stackexchange.com/questions/20730/why-do-my-how-to-questions-often-get-renamed-to-how-do-i" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:481 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Why do my &quot;How to&quot; questions often get renamed to &quot;How do I&quot;?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-scifi" title="Science Fiction &amp; Fantasy Stack Exchange"></div><a href="http://scifi.stackexchange.com/questions/53423/story-where-an-ai-becomes-self-aware-by-playing-games" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:186 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Story where an AI becomes self-aware by playing games
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-rpg" title="Role-playing Games Stack Exchange"></div><a href="http://rpg.stackexchange.com/questions/35960/can-you-interrupt-an-action-with-a-ready-action" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:122 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Can you interrupt an action with a Ready Action?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-webmasters" title="Webmasters Stack Exchange"></div><a href="http://webmasters.stackexchange.com/questions/60357/what-nameservers-should-i-use-for-github-pages-when-using-a-custom-domain" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:45 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    What nameservers should I use for GitHub Pages when using a custom domain?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-programmers" title="Programmers Stack Exchange"></div><a href="http://programmers.stackexchange.com/questions/234657/why-is-select-from-table-considered-bad-practice" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:131 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Why is &quot;Select * from table&quot; considered bad practice
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-math" title="Mathematics Stack Exchange"></div><a href="http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:69 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Visually stunning math concepts which are easy to explain
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-math" title="Mathematics Stack Exchange"></div><a href="http://math.stackexchange.com/questions/743272/tell-me-problems-that-can-trick-you" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:69 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    Tell me problems that can trick you
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-sharepoint" title="SharePoint Stack Exchange"></div><a href="http://sharepoint.stackexchange.com/questions/95401/how-to-add-url-to-list-using-javascript" class="js-gps-track" data-gps-track="site.switch({ item_type:11, target_site:232 }); posts_hot_network.click({ item_type:2, location:11 })">
+                    How to add URL to list using JavaScript
+                </a>
+
+            </li>
+    </ul>
+
+        <a href="#" 
+           class="show-more js-show-more js-gps-track" 
+           data-gps-track="posts_hot_network.click({ item_type:3, location:11 })">
+            more hot questions
+        </a>
+</div>
+		</div>
+	
+<div id="feed-link">
+    <div id="feed-link-text">
+        <a href="/feeds/question/339522" title="feed of this question and its answers">
+            <span class="feed-icon"></span>question feed
+        </a>
+    </div>
+</div>	<script>
+StackExchange.ready(function(){$.get('/posts/339522/ivc/05d0');});
+</script>
+<noscript>
+    <div><img src="/posts/339522/ivc/05d0" class="dno" alt="" width="0" height="0"></div>
+</noscript><div style="display:none" id="prettify-lang"></div></div>
+
+
+
+        </div>
+    </div>
+    <div id="footer" class="categories">
+        <div class="footerwrap">
+            <div id="footer-menu">
+                <div class="top-footer-links">
+                        <a href="/about">about</a>
+                    <a href="/help">help</a>
+                        <a href="/help/badges">badges</a>
+                    <a href="http://blog.superuser.com/?blb=1">blog</a>
+                        <a href="http://chat.stackexchange.com">chat</a>
+                    <a href="http://data.stackexchange.com">data</a>
+                    <a href="http://stackexchange.com/legal">legal</a>
+                    <a href="http://stackexchange.com/legal/privacy-policy">privacy policy</a>
+                    <a href="http://stackexchange.com/about/hiring">jobs</a>
+                    <a href="http://engine.adzerk.net/r?e=eyJhdiI6NDE0LCJhdCI6MjAsImNtIjo5NTQsImNoIjoxMTc4LCJjciI6Mjg0NSwiZG0iOjQsImZjIjoyODY3LCJmbCI6Mjc1MSwibnciOjIyLCJydiI6MCwicHIiOjExNSwic3QiOjAsInVyIjoiaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL2Fib3V0L2NvbnRhY3QiLCJyZSI6MX0&s=H7rycSB8DON6ld2xOU0q8siejIQ">advertising info</a>
+
+                    <a onclick='StackExchange.switchMobile("on")'>mobile</a>
+                    <b><a href="/contact">contact us</a></b>
+                        <b><a href="http://meta.superuser.com">feedback</a></b>
+                    
+                </div>
+                <div id="footer-sites">
+                    <table>
+    <tr>
+            <th colspan=3>
+                Technology
+            </th>
+            <th >
+                Life / Arts
+            </th>
+            <th >
+                Culture / Recreation
+            </th>
+            <th >
+                Science
+            </th>
+            <th >
+                Other
+            </th>
+    </tr>
+    <tr>
+            <td>
+                <ol>
+                        <li><a href="http://stackoverflow.com" title="professional and enthusiast programmers">Stack Overflow</a></li>
+                        <li><a href="http://serverfault.com" title="professional system and network administrators">Server Fault</a></li>
+                        <li><a href="http://superuser.com" title="computer enthusiasts and power users">Super User</a></li>
+                        <li><a href="http://webapps.stackexchange.com" title="power users of web applications">Web Applications</a></li>
+                        <li><a href="http://askubuntu.com" title="Ubuntu users and developers">Ask Ubuntu</a></li>
+                        <li><a href="http://webmasters.stackexchange.com" title="pro webmasters">Webmasters</a></li>
+                        <li><a href="http://gamedev.stackexchange.com" title="professional and independent game developers">Game Development</a></li>
+                        <li><a href="http://tex.stackexchange.com" title="users of TeX, LaTeX, ConTeXt, and related typesetting systems">TeX - LaTeX</a></li>
+                            </ol></td><td><ol>
+                        <li><a href="http://programmers.stackexchange.com" title="professional programmers interested in conceptual questions about software development">Programmers</a></li>
+                        <li><a href="http://unix.stackexchange.com" title="users of Linux, FreeBSD and other Un*x-like operating systems.">Unix &amp; Linux</a></li>
+                        <li><a href="http://apple.stackexchange.com" title="power users of Apple hardware and software">Ask Different (Apple)</a></li>
+                        <li><a href="http://wordpress.stackexchange.com" title="WordPress developers and administrators">WordPress Development</a></li>
+                        <li><a href="http://gis.stackexchange.com" title="cartographers, geographers and GIS professionals">Geographic Information Systems</a></li>
+                        <li><a href="http://electronics.stackexchange.com" title="electronics and electrical engineering professionals, students, and enthusiasts">Electrical Engineering</a></li>
+                        <li><a href="http://android.stackexchange.com" title="enthusiasts and power users of the Android operating system">Android Enthusiasts</a></li>
+                        <li><a href="http://security.stackexchange.com" title="Information security professionals">Information Security</a></li>
+                            </ol></td><td><ol>
+                        <li><a href="http://dba.stackexchange.com" title="database professionals who wish to improve their database skills and learn from others in the community">Database Administrators</a></li>
+                        <li><a href="http://drupal.stackexchange.com" title="Drupal developers and administrators">Drupal Answers</a></li>
+                        <li><a href="http://sharepoint.stackexchange.com" title="SharePoint enthusiasts">SharePoint</a></li>
+                        <li><a href="http://ux.stackexchange.com" title="user experience researchers and experts">User Experience</a></li>
+                        <li><a href="http://mathematica.stackexchange.com" title="users of Mathematica">Mathematica</a></li>
+                    
+                        <li>
+                            <a href="http://stackexchange.com/sites#technology" class="more">
+                                more (14)
+                            </a>
+                        </li>
+                </ol>
+            </td>
+            <td>
+                <ol>
+                        <li><a href="http://photo.stackexchange.com" title="professional, enthusiast and amateur photographers">Photography</a></li>
+                        <li><a href="http://scifi.stackexchange.com" title="science fiction and fantasy enthusiasts">Science Fiction &amp; Fantasy</a></li>
+                        <li><a href="http://graphicdesign.stackexchange.com" title="professional graphic designers and non-designers trying to do their own graphic design">Graphic Design</a></li>
+                        <li><a href="http://cooking.stackexchange.com" title="professional and amateur chefs">Seasoned Advice (cooking)</a></li>
+                        <li><a href="http://diy.stackexchange.com" title="contractors and serious DIYers">Home Improvement</a></li>
+                        <li><a href="http://money.stackexchange.com" title="people who want to be financially literate">Personal Finance &amp; Money</a></li>
+                    
+                        <li>
+                            <a href="http://stackexchange.com/sites#lifearts" class="more">
+                                more (11)
+                            </a>
+                        </li>
+                </ol>
+            </td>
+            <td>
+                <ol>
+                        <li><a href="http://english.stackexchange.com" title="linguists, etymologists, and serious English language enthusiasts">English Language &amp; Usage</a></li>
+                        <li><a href="http://skeptics.stackexchange.com" title="scientific skepticism">Skeptics</a></li>
+                        <li><a href="http://judaism.stackexchange.com" title="those who base their lives on Jewish law and tradition and anyone interested in learning more">Mi Yodeya (Judaism)</a></li>
+                        <li><a href="http://travel.stackexchange.com" title="road warriors and seasoned travelers">Travel</a></li>
+                        <li><a href="http://christianity.stackexchange.com" title="committed Christians, experts in Christianity and those interested in learning more">Christianity</a></li>
+                        <li><a href="http://gaming.stackexchange.com" title="passionate videogamers on all platforms">Arqade (gaming)</a></li>
+                        <li><a href="http://bicycles.stackexchange.com" title="people who build and repair bicycles, people who train cycling, or commute on bicycles">Bicycles</a></li>
+                        <li><a href="http://rpg.stackexchange.com" title="gamemasters and players of tabletop, paper-and-pencil role-playing games">Role-playing Games</a></li>
+                    
+                        <li>
+                            <a href="http://stackexchange.com/sites#culturerecreation" class="more">
+                                more (21)
+                            </a>
+                        </li>
+                </ol>
+            </td>
+            <td>
+                <ol>
+                        <li><a href="http://math.stackexchange.com" title="people studying math at any level and professionals in related fields">Mathematics</a></li>
+                        <li><a href="http://stats.stackexchange.com" title="people interested in statistics, machine learning, data analysis, data mining, and data visualization">Cross Validated (stats)</a></li>
+                        <li><a href="http://cstheory.stackexchange.com" title="theoretical computer scientists and researchers in related fields">Theoretical Computer Science</a></li>
+                        <li><a href="http://physics.stackexchange.com" title="active researchers, academics and students of physics">Physics</a></li>
+                        <li><a href="http://mathoverflow.net" title="professional mathematicians">MathOverflow</a></li>
+                    
+                        <li>
+                            <a href="http://stackexchange.com/sites#science" class="more">
+                                more (7)
+                            </a>
+                        </li>
+                </ol>
+            </td>
+            <td>
+                <ol>
+                        <li><a href="http://stackapps.com" title="apps, scripts, and development with the Stack Exchange API">Stack Apps</a></li>
+                        <li><a href="http://meta.stackoverflow.com" title="meta-discussion of the Stack Exchange family of Q&amp;A websites">Meta Stack Overflow</a></li>
+                        <li><a href="http://area51.stackexchange.com" title="proposing new sites in the Stack Exchange network">Area 51</a></li>
+                        <li><a href="http://careers.stackoverflow.com">Stack Overflow Careers</a></li>
+                    
+                </ol>
+            </td>
+    </tr>
+</table>
+                </div>
+            </div>
+
+            <div id="copyright">
+                site design / logo &#169; 2014 stack exchange inc; user contributions licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">cc by-sa 3.0</a> 
+                with <a href="http://blog.stackoverflow.com/2009/06/attribution-required/" rel="license">attribution required</a>
+            </div>
+            <div id="svnrev">
+                rev 2014.4.5.1528
+            </div>
+            
+        </div>
+    </div>
+    <noscript>
+        <div id="noscript-warning">Super User works best with JavaScript enabled<img src="http://pixel.quantserve.com/pixel/p-c1rF4kxgLUzNc.gif" alt="" class="dno"></div>
+    </noscript>
+<script>var p = "http", d = "static"; if (document.location.protocol == "https:") { p += "s"; d = "engine"; } var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = p + "://" + d + ".adzerk.net/ados.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script>
+<script>
+    var ados = ados || {};
+    ados.run = ados.run || [];
+    ados.run.push(function () { ados_setKeywords('regex,linux,unix,command-line,grep');; ados_load(); });         
+</script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m);
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-5620270-3');        
+        
+        ga('set', 'dimension2', '|regex|linux|unix|command-line|grep|');         
+        ga('send', 'pageview');
+        var _qevents = _qevents || [],
+            _comscore = _comscore || [];
+        (function () {
+            var ssl='https:'==document.location.protocol,
+                s=document.getElementsByTagName('script')[0],
+                qc=document.createElement('script');
+            qc.async=true;
+            qc.src=(ssl?'https://secure':'http://edge')+'.quantserve.com/quant.js';
+            s.parentNode.insertBefore(qc, s);
+            var sc=document.createElement('script');
+            sc.async=true;
+            sc.src=(ssl?'https://sb':'http://b') + '.scorecardresearch.com/beacon.js';
+            s.parentNode.insertBefore(sc, s);
+        })();
+        _comscore.push({ c1: "2", c2: "17440561" });
+        _qevents.push({ qacct: "p-c1rF4kxgLUzNc" });
+    </script>        
+    
+    </body>
+</html>
+

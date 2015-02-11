@@ -1,0 +1,2185 @@
+0.000000 sec took to parse file at /home/seiyak/Documents/Document_Object_Model.htm
+	tag: div target: div line: 70
+		attribute. key: id value: mw-page-base
+		attribute. key: class value: noprint
+	tag: div target: div line: 71
+		attribute. key: id value: mw-head-base
+		attribute. key: class value: noprint
+	tag: div target: div line: 72
+		attribute. key: id value: content
+		attribute. key: class value: mw-body
+		attribute. key: role value: main
+	tag: div target: div line: 75
+		attribute. key: id value: siteNotice
+	tag: div target: div line: 75
+		attribute. key: class value: cn-fundraising
+		attribute. key: id value: centralNotice
+	tag: div target: div line: 334
+		attribute. key: id value: B14_1003_enUS_dsk_rpt_2
+	tag: div target: div line: 452
+		attribute. key: id value: B14_1003_enUS_dsk_rpt_2-nag
+	tag: div target: div line: 1760
+		attribute. key: id value: bodyContent
+		attribute. key: class value: mw-body-content
+	tag: div target: div line: 1761
+		attribute. key: id value: siteSub
+	tag: div target: div line: 1762
+		attribute. key: id value: contentSub
+	tag: div target: div line: 1763
+		attribute. key: id value: jump-to-nav
+		attribute. key: class value: mw-jump
+	tag: div target: div line: 1766
+		attribute. key: id value: mw-content-text
+		attribute. key: dir value: ltr
+		attribute. key: class value: mw-content-ltr
+		attribute. key: lang value: en
+	tag: div target: div line: 1766
+		attribute. key: class value: hatnote
+	tag: div target: div line: 1770
+		attribute. key: style value: width:52px;
+	tag: div target: div line: 1783
+		attribute. key: class value: hlist
+	tag: div target: div line: 1793
+		attribute. key: style value: padding:0.2em 0.4em; line-height:1.2em;
+	tag: div target: div line: 1794
+		attribute. key: class value: hlist
+	tag: div target: div line: 1804
+		attribute. key: style value: padding:0.2em 0.4em; line-height:1.2em;
+	tag: div target: div line: 1805
+		attribute. key: class value: hlist
+	tag: div target: div line: 1814
+		attribute. key: class value: hlist
+	tag: div target: div line: 1825
+		attribute. key: class value: hlist
+	tag: div target: div line: 1833
+		attribute. key: class value: hlist
+	tag: div target: div line: 1841
+		attribute. key: class value: hlist
+	tag: div target: div line: 1849
+		attribute. key: class value: hlist
+	tag: div target: div line: 1860
+		attribute. key: class value: hlist
+	tag: div target: div line: 1869
+		attribute. key: class value: hlist
+	tag: div target: div line: 1890
+		attribute. key: class value: hlist
+		attribute. key: style value: padding-top:0.3em;
+	tag: div target: div line: 1906
+		attribute. key: class value: plainlinks hlist navbar mini
+	tag: div target: div line: 1916
+		attribute. key: class value: thumb tright
+	tag: div target: div line: 1917
+		attribute. key: class value: thumbinner
+		attribute. key: style value: width:222px;
+	tag: div target: div line: 1918
+		attribute. key: class value: thumbcaption
+	tag: div target: div line: 1919
+		attribute. key: class value: magnify
+	tag: div target: div line: 1929
+		attribute. key: id value: toc
+		attribute. key: class value: toc
+	tag: div target: div line: 1930
+		attribute. key: id value: toctitle
+	tag: div target: div line: 2011
+		attribute. key: class value: hatnote boilerplate seealso
+	tag: div target: div line: 2050
+		attribute. key: class value: reflist
+		attribute. key: style value: list-style-type: decimal;
+	tag: div target: div line: 2084
+		attribute. key: class value: plainlinks hlist navbar mini
+	tag: div target: div line: 2091
+		attribute. key: style value: font-size:110%;
+	tag: div target: div line: 2101
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2105
+		attribute. key: style value: padding:0em 0.75em;
+	tag: div target: div line: 2108
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2166
+		attribute. key: style value: padding:0em 0.75em;
+	tag: div target: div line: 2169
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2183
+		attribute. key: style value: padding:0em 0.75em;
+	tag: div target: div line: 2186
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2213
+		attribute. key: style value: padding:0em 0.75em;
+	tag: div target: div line: 2216
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2228
+		attribute. key: style value: padding:0em 0.75em;
+	tag: div target: div line: 2231
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2246
+		attribute. key: style value: padding:0em 0.75em;
+	tag: div target: div line: 2249
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2270
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2289
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2308
+		attribute. key: style value: padding:0em 0.25em;
+	tag: div target: div line: 2340
+		attribute. key: class value: printfooter
+	tag: div target: div line: 2342
+		attribute. key: id value: catlinks
+		attribute. key: class value: catlinks
+	tag: div target: div line: 2342
+		attribute. key: id value: mw-normal-catlinks
+		attribute. key: class value: mw-normal-catlinks
+	tag: div target: div line: 2342
+		attribute. key: id value: mw-hidden-catlinks
+		attribute. key: class value: mw-hidden-catlinks mw-hidden-cats-hidden
+	tag: div target: div line: 2342
+		attribute. key: class value: visualClear
+	tag: div target: div line: 2345
+		attribute. key: id value: mw-navigation
+	tag: div target: div line: 2348
+		attribute. key: id value: mw-head
+	tag: div target: div line: 2349
+		attribute. key: id value: p-personal
+		attribute. key: role value: navigation
+		attribute. key: class value: 
+		attribute. key: aria-labelledby value: p-personal-label
+	tag: div target: div line: 2354
+		attribute. key: id value: left-navigation
+	tag: div target: div line: 2355
+		attribute. key: id value: p-namespaces
+		attribute. key: role value: navigation
+		attribute. key: class value: vectorTabs
+		attribute. key: aria-labelledby value: p-namespaces-label
+	tag: div target: div line: 2362
+		attribute. key: id value: p-variants
+		attribute. key: role value: navigation
+		attribute. key: class value: vectorMenu emptyPortlet
+		attribute. key: aria-labelledby value: p-variants-label
+	tag: div target: div line: 2365
+		attribute. key: class value: menu
+	tag: div target: div line: 2371
+		attribute. key: id value: right-navigation
+	tag: div target: div line: 2372
+		attribute. key: id value: p-views
+		attribute. key: role value: navigation
+		attribute. key: class value: vectorTabs
+		attribute. key: aria-labelledby value: p-views-label
+	tag: div target: div line: 2380
+		attribute. key: style value: 
+		attribute. key: id value: p-cactions
+		attribute. key: role value: navigation
+		attribute. key: class value: vectorMenu emptyPortlet
+		attribute. key: aria-labelledby value: p-cactions-label
+	tag: div target: div line: 2383
+		attribute. key: class value: menu
+	tag: div target: div line: 2388
+		attribute. key: id value: p-search
+		attribute. key: role value: search
+	tag: div target: div line: 2394
+		attribute. key: id value: simpleSearch
+	tag: div target: div line: 2400
+		attribute. key: id value: mw-panel
+	tag: div target: div line: 2401
+		attribute. key: id value: p-logo
+		attribute. key: role value: banner
+	tag: div target: div line: 2402
+		attribute. key: class value: portal first
+		attribute. key: role value: navigation
+		attribute. key: id value: p-navigation
+		attribute. key: aria-labelledby value: p-navigation-label
+	tag: div target: div line: 2405
+		attribute. key: class value: body
+	tag: div target: div line: 2417
+		attribute. key: class value: portal
+		attribute. key: role value: navigation
+		attribute. key: id value: p-interaction
+		attribute. key: aria-labelledby value: p-interaction-label
+	tag: div target: div line: 2420
+		attribute. key: class value: body
+	tag: div target: div line: 2430
+		attribute. key: class value: portal
+		attribute. key: role value: navigation
+		attribute. key: id value: p-tb
+		attribute. key: aria-labelledby value: p-tb-label
+	tag: div target: div line: 2433
+		attribute. key: class value: body
+	tag: div target: div line: 2445
+		attribute. key: class value: portal
+		attribute. key: role value: navigation
+		attribute. key: id value: p-coll-print_export
+		attribute. key: aria-labelledby value: p-coll-print_export-label
+	tag: div target: div line: 2448
+		attribute. key: class value: body
+	tag: div target: div line: 2456
+		attribute. key: class value: portal
+		attribute. key: role value: navigation
+		attribute. key: id value: p-lang
+		attribute. key: aria-labelledby value: p-lang-label
+	tag: div target: div line: 2459
+		attribute. key: class value: body
+	tag: div target: div line: 2500
+		attribute. key: class value: after-portlet after-portlet-lang
+	tag: div target: div line: 2504
+		attribute. key: id value: footer
+		attribute. key: role value: contentinfo
+	tag: div target: div line: 2526
+		attribute. key: style value: clear:both
+	tag: div target: div line: 2542
+		attribute. key: class value: suggestions
+		attribute. key: style value: display: none; font-size: 13px;
+	tag: div target: div line: 2542
+		attribute. key: class value: suggestions-results
+	tag: div target: div line: 2542
+		attribute. key: class value: suggestions-special
+found 90 <div> tags
+	tag: a target: a line: 73
+		attribute. key: id value: top
+	tag: a target: a line: 438
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Problems_donating&country=US&language=en&uselang=en
+	tag: a target: a line: 439
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Ways_to_Give&country=US&language=en&uselang=en
+	tag: a target: a line: 440
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?landing_page=FAQ&basic=true&country=US&language=en&uselang=en
+	tag: a target: a line: 441
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Donor_policy&country=US&language=en&uselang=en
+	tag: a target: a line: 441
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Tax_Deductibility&country=US&language=en&uselang=en
+	tag: a target: a line: 442
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Donor_policy&country=US&language=en&uselang=en
+	tag: a target: a line: 445
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Tax_Deductibility&country=US&language=en&uselang=en
+	tag: a target: a line: 446
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Donor_policy&country=US&language=en&uselang=en
+	tag: a target: a line: 446
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Tax_Deductibility&country=US&language=en&uselang=en
+	tag: a target: a line: 449
+		attribute. key: target value: _blank
+		attribute. key: href value: https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&landing_page=Cancel_or_change_recurring_payments&country=US&language=en&uselang=en
+	tag: a target: a line: 1764
+		attribute. key: href value: #mw-navigation
+	tag: a target: a line: 1764
+		attribute. key: href value: #p-search
+	tag: a target: a line: 1766
+		attribute. key: href value: http://en.wikipedia.org/wiki/Domain_Object_Model
+		attribute. key: title value: Domain Object Model
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1772
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:Citing_sources
+		attribute. key: title value: Wikipedia:Citing sources
+	tag: a target: a line: 1772
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations
+		attribute. key: title value: Wikipedia:Citing sources
+	tag: a target: a line: 1772
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check
+		attribute. key: title value: Wikipedia:WikiProject Fact and Reference Check
+	tag: a target: a line: 1772
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:When_to_cite
+		attribute. key: title value: Wikipedia:When to cite
+	tag: a target: a line: 1777
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML
+		attribute. key: title value: HTML
+	tag: a target: a line: 1785
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML
+		attribute. key: title value: HTML
+	tag: a target: a line: 1786
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML5
+		attribute. key: title value: HTML5
+	tag: a target: a line: 1787
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML_editor
+		attribute. key: title value: HTML editor
+	tag: a target: a line: 1791
+		attribute. key: href value: http://en.wikipedia.org/wiki/Dynamic_HTML
+		attribute. key: title value: Dynamic HTML
+	tag: a target: a line: 1793
+		attribute. key: href value: http://en.wikipedia.org/wiki/XHTML
+		attribute. key: title value: XHTML
+	tag: a target: a line: 1796
+		attribute. key: href value: http://en.wikipedia.org/wiki/XHTML_Basic
+		attribute. key: title value: XHTML Basic
+	tag: a target: a line: 1797
+		attribute. key: href value: http://en.wikipedia.org/wiki/XHTML_Mobile_Profile
+		attribute. key: title value: XHTML Mobile Profile
+	tag: a target: a line: 1798
+		attribute. key: href value: http://en.wikipedia.org/wiki/C-HTML
+		attribute. key: title value: C-HTML
+	tag: a target: a line: 1804
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML_element
+		attribute. key: title value: HTML element
+	tag: a target: a line: 1807
+		attribute. key: href value: http://en.wikipedia.org/wiki/Span_and_div
+		attribute. key: title value: Span and div
+	tag: a target: a line: 1812
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML_attribute
+		attribute. key: title value: HTML attribute
+	tag: a target: a line: 1816
+		attribute. key: href value: http://en.wikipedia.org/wiki/Character_encodings_in_HTML
+		attribute. key: title value: Character encodings in HTML
+	tag: a target: a line: 1817
+		attribute. key: href value: http://en.wikipedia.org/wiki/Unicode_and_HTML
+		attribute. key: title value: Unicode and HTML
+	tag: a target: a line: 1821
+		attribute. key: href value: http://en.wikipedia.org/wiki/Language_code
+		attribute. key: title value: Language code
+	tag: a target: a line: 1823
+		attribute. key: href value: http://en.wikipedia.org/wiki/Browser_Object_Model
+		attribute. key: title value: Browser Object Model
+	tag: a target: a line: 1827
+		attribute. key: href value: http://en.wikipedia.org/wiki/Style_sheet_%28web_development%29
+		attribute. key: title value: Style sheet (web development)
+	tag: a target: a line: 1828
+		attribute. key: href value: http://en.wikipedia.org/wiki/Cascading_Style_Sheets
+		attribute. key: title value: Cascading Style Sheets
+	tag: a target: a line: 1835
+		attribute. key: href value: http://en.wikipedia.org/wiki/Font_family_%28HTML%29
+		attribute. key: title value: Font family (HTML)
+	tag: a target: a line: 1836
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_colors
+		attribute. key: title value: Web colors
+	tag: a target: a line: 1843
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML_scripting
+		attribute. key: title value: HTML scripting
+	tag: a target: a line: 1844
+		attribute. key: href value: http://en.wikipedia.org/wiki/JavaScript
+		attribute. key: title value: JavaScript
+	tag: a target: a line: 1851
+		attribute. key: href value: http://en.wikipedia.org/wiki/World_Wide_Web_Consortium
+		attribute. key: title value: World Wide Web Consortium
+	tag: a target: a line: 1852
+		attribute. key: href value: http://en.wikipedia.org/wiki/WHATWG
+		attribute. key: title value: WHATWG
+	tag: a target: a line: 1853
+		attribute. key: href value: http://en.wikipedia.org/wiki/W3C_Markup_Validation_Service
+		attribute. key: title value: W3C Markup Validation Service
+	tag: a target: a line: 1857
+		attribute. key: href value: http://en.wikipedia.org/wiki/Quirks_mode
+		attribute. key: title value: Quirks mode
+	tag: a target: a line: 1858
+		attribute. key: href value: http://en.wikipedia.org/wiki/Framing_%28World_Wide_Web%29
+		attribute. key: title value: Framing (World Wide Web)
+	tag: a target: a line: 1862
+		attribute. key: href value: http://en.wikipedia.org/wiki/Canvas_element
+		attribute. key: title value: Canvas element
+	tag: a target: a line: 1863
+		attribute. key: href value: http://en.wikipedia.org/wiki/WebGL
+		attribute. key: title value: WebGL
+	tag: a target: a line: 1864
+		attribute. key: href value: http://en.wikipedia.org/wiki/WebCL
+		attribute. key: title value: WebCL
+	tag: a target: a line: 1871
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML5_Audio
+		attribute. key: title value: HTML5 Audio
+	tag: a target: a line: 1872
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML5_video
+		attribute. key: title value: HTML5 video
+	tag: a target: a line: 1876
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_storage
+		attribute. key: title value: Web storage
+	tag: a target: a line: 1877
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_browser_engine
+		attribute. key: title value: Web browser engine
+	tag: a target: a line: 1887
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_document_markup_languages
+		attribute. key: title value: Comparison of document markup languages
+	tag: a target: a line: 1888
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_web_browsers
+		attribute. key: title value: Comparison of web browsers
+	tag: a target: a line: 1893
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28HTML%29
+		attribute. key: title value: Comparison of layout engines (HTML)
+	tag: a target: a line: 1894
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28non-standard_HTML%29
+		attribute. key: title value: Comparison of layout engines (non-standard HTML)
+	tag: a target: a line: 1898
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28XHTML%29
+		attribute. key: title value: Comparison of layout engines (XHTML)
+	tag: a target: a line: 1898
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28XHTML_1.1%29
+		attribute. key: title value: Comparison of layout engines (XHTML 1.1)
+	tag: a target: a line: 1899
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28HTML5%29
+		attribute. key: title value: Comparison of layout engines (HTML5)
+	tag: a target: a line: 1899
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28HTML5_canvas%29
+		attribute. key: title value: Comparison of layout engines (HTML5 canvas)
+	tag: a target: a line: 1900
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28HTML5_media%29
+		attribute. key: title value: Comparison of layout engines (HTML5 media)
+	tag: a target: a line: 1908
+		attribute. key: href value: http://en.wikipedia.org/wiki/Template:HTML
+		attribute. key: title value: Template:HTML
+	tag: a target: a line: 1909
+		attribute. key: href value: http://en.wikipedia.org/wiki/Template_talk:HTML
+		attribute. key: title value: Template talk:HTML
+	tag: a target: a line: 1910
+		attribute. key: class value: external text
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Template:HTML&action=edit
+	tag: a target: a line: 1917
+		attribute. key: href value: http://en.wikipedia.org/wiki/File:JKDOM.SVG
+		attribute. key: class value: image
+	tag: a target: a line: 1919
+		attribute. key: href value: http://en.wikipedia.org/wiki/File:JKDOM.SVG
+		attribute. key: class value: internal
+		attribute. key: title value: Enlarge
+	tag: a target: a line: 1923
+		attribute. key: href value: http://en.wikipedia.org/wiki/Cross-platform
+		attribute. key: title value: Cross-platform
+	tag: a target: a line: 1923
+		attribute. key: href value: http://en.wikipedia.org/wiki/Programming_language
+		attribute. key: title value: Programming language
+	tag: a target: a line: 1923
+		attribute. key: href value: http://en.wikipedia.org/wiki/Object_%28computer_science%29
+		attribute. key: title value: Object (computer science)
+	tag: a target: a line: 1923
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML
+		attribute. key: title value: HTML
+	tag: a target: a line: 1923
+		attribute. key: href value: http://en.wikipedia.org/wiki/XHTML
+		attribute. key: title value: XHTML
+	tag: a target: a line: 1923
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML
+		attribute. key: title value: XML
+	tag: a target: a line: 1923
+		attribute. key: href value: #cite_note-Introduction-1
+	tag: a target: a line: 1923
+		attribute. key: href value: http://en.wikipedia.org/wiki/Node_%28computer_science%29
+		attribute. key: title value: Node (computer science)
+	tag: a target: a line: 1923
+		attribute. key: href value: http://en.wikipedia.org/wiki/Tree_structure
+		attribute. key: title value: Tree structure
+	tag: a target: a line: 1926
+		attribute. key: href value: http://en.wikipedia.org/wiki/Application_programming_interface
+		attribute. key: title value: Application programming interface
+	tag: a target: a line: 1927
+		attribute. key: href value: http://en.wikipedia.org/wiki/Browser_wars
+		attribute. key: title value: Browser wars
+	tag: a target: a line: 1927
+		attribute. key: href value: http://en.wikipedia.org/wiki/Netscape_Navigator
+		attribute. key: title value: Netscape Navigator
+	tag: a target: a line: 1927
+		attribute. key: href value: http://en.wikipedia.org/wiki/Microsoft_Internet_Explorer
+		attribute. key: title value: Microsoft Internet Explorer
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1927
+		attribute. key: href value: http://en.wikipedia.org/wiki/JavaScript
+		attribute. key: title value: JavaScript
+	tag: a target: a line: 1927
+		attribute. key: href value: http://en.wikipedia.org/wiki/JScript
+		attribute. key: title value: JScript
+	tag: a target: a line: 1927
+		attribute. key: href value: http://en.wikipedia.org/wiki/Scripting_language
+		attribute. key: title value: Scripting language
+	tag: a target: a line: 1927
+		attribute. key: href value: http://en.wikipedia.org/wiki/Layout_engines
+		attribute. key: title value: Layout engines
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1927
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_browser
+		attribute. key: title value: Web browser
+	tag: a target: a line: 1932
+		attribute. key: href value: #
+		attribute. key: id value: togglelink
+	tag: a target: a line: 1934
+		attribute. key: href value: #Legacy_DOM
+	tag: a target: a line: 1935
+		attribute. key: href value: #Intermediate_DOM
+	tag: a target: a line: 1936
+		attribute. key: href value: #Standardization
+	tag: a target: a line: 1937
+		attribute. key: href value: #Applications
+	tag: a target: a line: 1939
+		attribute. key: href value: #Web_browsers
+	tag: a target: a line: 1942
+		attribute. key: href value: #Implementations
+	tag: a target: a line: 1944
+		attribute. key: href value: #Layout_engines
+	tag: a target: a line: 1945
+		attribute. key: href value: #Libraries
+	tag: a target: a line: 1948
+		attribute. key: href value: #See_also
+	tag: a target: a line: 1949
+		attribute. key: href value: #Sources
+	tag: a target: a line: 1950
+		attribute. key: href value: #References
+	tag: a target: a line: 1951
+		attribute. key: href value: #External_links
+	tag: a target: a line: 1955
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=1
+		attribute. key: title value: Edit section: Legacy DOM
+	tag: a target: a line: 1956
+		attribute. key: href value: http://en.wikipedia.org/wiki/Netscape_Communications
+		attribute. key: title value: Netscape Communications
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1956
+		attribute. key: href value: http://en.wikipedia.org/wiki/Microsoft
+		attribute. key: title value: Microsoft
+	tag: a target: a line: 1956
+		attribute. key: href value: http://en.wikipedia.org/wiki/Internet_Explorer_3
+		attribute. key: title value: Internet Explorer 3
+	tag: a target: a line: 1956
+		attribute. key: href value: http://en.wikipedia.org/wiki/Port_%28software%29
+		attribute. key: title value: Port (software)
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1956
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_developer
+		attribute. key: title value: Web developer
+	tag: a target: a line: 1956
+		attribute. key: href value: http://en.wikipedia.org/wiki/Client-side
+		attribute. key: title value: Client-side
+	tag: a target: a line: 1956
+		attribute. key: href value: http://en.wikipedia.org/wiki/Event_%28computing%29
+		attribute. key: title value: Event (computing)
+	tag: a target: a line: 1960
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML4
+		attribute. key: title value: HTML4
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1961
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML_element
+		attribute. key: title value: HTML element
+	tag: a target: a line: 1961
+		attribute. key: href value: http://en.wikipedia.org/wiki/Form_%28web%29
+		attribute. key: title value: Form (web)
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1961
+		attribute. key: href value: http://en.wikipedia.org/wiki/Hyperlink
+		attribute. key: title value: Hyperlink
+	tag: a target: a line: 1965
+		attribute. key: href value: http://en.wikipedia.org/wiki/Text_box
+		attribute. key: title value: Text box
+	tag: a target: a line: 1966
+		attribute. key: href value: http://en.wikipedia.org/wiki/Rollover_%28web_design%29
+		attribute. key: title value: Rollover (web design)
+	tag: a target: a line: 1967
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=2
+		attribute. key: title value: Edit section: Intermediate DOM
+	tag: a target: a line: 1969
+		attribute. key: href value: http://en.wikipedia.org/wiki/Dynamic_HTML
+		attribute. key: title value: Dynamic HTML
+	tag: a target: a line: 1977
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=3
+		attribute. key: title value: Edit section: Standardization
+	tag: a target: a line: 1978
+		attribute. key: href value: http://en.wikipedia.org/wiki/World_Wide_Web_Consortium
+		attribute. key: title value: World Wide Web Consortium
+	tag: a target: a line: 1978
+		attribute. key: href value: http://en.wikipedia.org/wiki/Open_standard
+		attribute. key: title value: Open standard
+	tag: a target: a line: 1978
+		attribute. key: href value: http://en.wikipedia.org/wiki/World_Wide_Web
+		attribute. key: title value: World Wide Web
+	tag: a target: a line: 1980
+		attribute. key: href value: http://en.wikipedia.org/wiki/ECMAScript
+		attribute. key: title value: ECMAScript
+	tag: a target: a line: 1988
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML
+		attribute. key: title value: XML
+	tag: a target: a line: 1992
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=GetElementById&action=edit&redlink=1
+		attribute. key: class value: new
+		attribute. key: title value: GetElementById (page does not exist)
+	tag: a target: a line: 1992
+		attribute. key: href value: http://en.wikipedia.org/wiki/DOM_Events
+		attribute. key: title value: DOM Events
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1992
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML_namespace
+		attribute. key: title value: XML namespace
+	tag: a target: a line: 1993
+		attribute. key: href value: http://en.wikipedia.org/wiki/XPath
+		attribute. key: title value: XPath
+	tag: a target: a line: 1993
+		attribute. key: href value: http://en.wikipedia.org/wiki/Event_handling
+		attribute. key: title value: Event handling
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1993
+		attribute. key: href value: http://en.wikipedia.org/wiki/Serialization
+		attribute. key: title value: Serialization
+	tag: a target: a line: 1994
+		attribute. key: href value: #cite_note-2
+	tag: a target: a line: 1995
+		attribute. key: href value: http://en.wikipedia.org/wiki/Microsoft_Internet_Explorer_6
+		attribute. key: title value: Microsoft Internet Explorer 6
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1995
+		attribute. key: href value: http://en.wikipedia.org/wiki/Opera_%28web_browser%29
+		attribute. key: title value: Opera (web browser)
+	tag: a target: a line: 1995
+		attribute. key: href value: http://en.wikipedia.org/wiki/Safari_%28web_browser%29
+		attribute. key: title value: Safari (web browser)
+	tag: a target: a line: 1995
+		attribute. key: href value: http://en.wikipedia.org/wiki/Gecko_%28layout_engine%29
+		attribute. key: title value: Gecko (layout engine)
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1995
+		attribute. key: href value: http://en.wikipedia.org/wiki/Mozilla_Application_Suite
+		attribute. key: title value: Mozilla Application Suite
+	tag: a target: a line: 1995
+		attribute. key: href value: http://en.wikipedia.org/wiki/Mozilla_Firefox
+		attribute. key: title value: Mozilla Firefox
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 1995
+		attribute. key: href value: http://en.wikipedia.org/wiki/SeaMonkey
+		attribute. key: title value: SeaMonkey
+	tag: a target: a line: 1995
+		attribute. key: href value: http://en.wikipedia.org/wiki/Camino
+		attribute. key: title value: Camino
+	tag: a target: a line: 1996
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=4
+		attribute. key: title value: Edit section: Applications
+	tag: a target: a line: 1997
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=5
+		attribute. key: title value: Edit section: Web browsers
+	tag: a target: a line: 1998
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_browser_engine
+		attribute. key: title value: Web browser engine
+	tag: a target: a line: 1998
+		attribute. key: href value: http://en.wikipedia.org/wiki/Tree_structure
+		attribute. key: title value: Tree structure
+	tag: a target: a line: 2004
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=6
+		attribute. key: title value: Edit section: Implementations
+	tag: a target: a line: 2008
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:Citation_needed
+		attribute. key: title value: Wikipedia:Citation needed
+	tag: a target: a line: 2009
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=7
+		attribute. key: title value: Edit section: Layout engines
+	tag: a target: a line: 2010
+		attribute. key: href value: http://en.wikipedia.org/wiki/Trident_%28layout_engine%29
+		attribute. key: title value: Trident (layout engine)
+	tag: a target: a line: 2010
+		attribute. key: href value: http://en.wikipedia.org/wiki/Blink_%28layout_engine%29
+		attribute. key: title value: Blink (layout engine)
+	tag: a target: a line: 2010
+		attribute. key: href value: http://en.wikipedia.org/wiki/WebKit
+		attribute. key: title value: WebKit
+	tag: a target: a line: 2010
+		attribute. key: href value: http://en.wikipedia.org/wiki/Gecko_%28layout_engine%29
+		attribute. key: title value: Gecko (layout engine)
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2010
+		attribute. key: href value: http://en.wikipedia.org/wiki/Google_Chrome
+		attribute. key: title value: Google Chrome
+	tag: a target: a line: 2010
+		attribute. key: href value: http://en.wikipedia.org/wiki/Opera_%28web_browser%29
+		attribute. key: title value: Opera (web browser)
+	tag: a target: a line: 2010
+		attribute. key: href value: http://en.wikipedia.org/wiki/Safari_%28web_browser%29
+		attribute. key: title value: Safari (web browser)
+	tag: a target: a line: 2010
+		attribute. key: href value: http://en.wikipedia.org/wiki/Firefox
+		attribute. key: title value: Firefox
+	tag: a target: a line: 2011
+		attribute. key: href value: http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28Document_Object_Model%29
+		attribute. key: title value: Comparison of layout engines (Document Object Model)
+	tag: a target: a line: 2012
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=8
+		attribute. key: title value: Edit section: Libraries
+	tag: a target: a line: 2015
+		attribute. key: href value: http://en.wikipedia.org/wiki/Libxml2
+		attribute. key: title value: Libxml2
+	tag: a target: a line: 2016
+		attribute. key: href value: http://en.wikipedia.org/wiki/MSXML
+		attribute. key: title value: MSXML
+	tag: a target: a line: 2017
+		attribute. key: href value: http://en.wikipedia.org/wiki/Xerces
+		attribute. key: title value: Xerces
+	tag: a target: a line: 2018
+		attribute. key: href value: #cite_note-3
+	tag: a target: a line: 2022
+		attribute. key: href value: http://en.wikipedia.org/wiki/Java_API_for_XML_Processing
+		attribute. key: title value: Java API for XML Processing
+	tag: a target: a line: 2023
+		attribute. key: href value: http://en.wikipedia.org/wiki/Lazarus_%28IDE%29
+		attribute. key: title value: Lazarus (IDE)
+	tag: a target: a line: 2023
+		attribute. key: href value: http://en.wikipedia.org/wiki/Free_Pascal
+		attribute. key: title value: Free Pascal
+	tag: a target: a line: 2027
+		attribute. key: href value: http://en.wikipedia.org/wiki/DOM_Inspector
+		attribute. key: title value: DOM Inspector
+	tag: a target: a line: 2029
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=9
+		attribute. key: title value: Edit section: See also
+	tag: a target: a line: 2031
+		attribute. key: href value: http://en.wikipedia.org/wiki/Ajax_%28programming%29
+		attribute. key: title value: Ajax (programming)
+	tag: a target: a line: 2032
+		attribute. key: href value: http://en.wikipedia.org/wiki/Application_Object_Model
+		attribute. key: title value: Application Object Model
+	tag: a target: a line: 2033
+		attribute. key: href value: http://en.wikipedia.org/wiki/DOM_scripting
+		attribute. key: title value: DOM scripting
+	tag: a target: a line: 2034
+		attribute. key: href value: http://en.wikipedia.org/wiki/JDOM
+		attribute. key: title value: JDOM
+	tag: a target: a line: 2034
+		attribute. key: href value: http://en.wikipedia.org/wiki/Simple_API_for_XML
+		attribute. key: title value: Simple API for XML
+	tag: a target: a line: 2035
+		attribute. key: href value: http://en.wikipedia.org/wiki/JQuery
+		attribute. key: title value: JQuery
+	tag: a target: a line: 2036
+		attribute. key: href value: http://en.wikipedia.org/wiki/JSON
+		attribute. key: title value: JSON
+	tag: a target: a line: 2037
+		attribute. key: href value: http://en.wikipedia.org/wiki/Prototype.js
+		attribute. key: title value: Prototype.js
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2038
+		attribute. key: href value: http://en.wikipedia.org/wiki/Simple_API_for_XML
+		attribute. key: title value: Simple API for XML
+	tag: a target: a line: 2039
+		attribute. key: href value: http://en.wikipedia.org/wiki/SXML
+		attribute. key: title value: SXML
+	tag: a target: a line: 2040
+		attribute. key: href value: http://en.wikipedia.org/wiki/TinyXml
+		attribute. key: title value: TinyXml
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2042
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=10
+		attribute. key: title value: Edit section: Sources
+	tag: a target: a line: 2044
+		attribute. key: href value: http://en.wikipedia.org/wiki/International_Standard_Book_Number
+		attribute. key: title value: International Standard Book Number
+	tag: a target: a line: 2044
+		attribute. key: href value: http://en.wikipedia.org/wiki/Special:BookSources/0-596-10199-6
+		attribute. key: title value: Special:BookSources/0-596-10199-6
+	tag: a target: a line: 2045
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://www.digital-web.com/articles/the_document_object_model/
+	tag: a target: a line: 2046
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://www.w3.org/2002/07/26-dom-article.html
+	tag: a target: a line: 2047
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: https://developer.mozilla.org/en/docs/DOM_Levels
+	tag: a target: a line: 2049
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=11
+		attribute. key: title value: Edit section: References
+	tag: a target: a line: 2052
+		attribute. key: href value: #cite_ref-Introduction_1-0
+	tag: a target: a line: 2052
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://www.w3.org/DOM/#what
+	tag: a target: a line: 2052
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external free
+		attribute. key: href value: http://www.w3.org/
+	tag: a target: a line: 2056
+		attribute. key: href value: #cite_ref-2
+	tag: a target: a line: 2056
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external free
+		attribute. key: href value: http://www.w3.org/TR/dom/
+	tag: a target: a line: 2057
+		attribute. key: href value: #cite_ref-3
+	tag: a target: a line: 2057
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://xmljs.sourceforge.net/
+	tag: a target: a line: 2060
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit&section=12
+		attribute. key: title value: Edit section: External links
+	tag: a target: a line: 2064
+		attribute. key: href value: http://commons.wikimedia.org/wiki/Category:Document_object_models
+		attribute. key: class value: extiw
+		attribute. key: title value: commons:Category:Document object models
+	tag: a target: a line: 2069
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://www.w3.org/DOM/
+	tag: a target: a line: 2070
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://xml.coverpages.org/dom.html
+	tag: a target: a line: 2071
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://www.w3.org/2003/02/06-dom-support.html
+	tag: a target: a line: 2072
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://www.quirksmode.org/dom/contents.html
+	tag: a target: a line: 2073
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: https://developer.mozilla.org/en/Gecko_DOM_Reference
+	tag: a target: a line: 2074
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://ibdom.sourceforge.net/
+	tag: a target: a line: 2075
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: https://www.p6r.com/software/xjr.html
+	tag: a target: a line: 2076
+		attribute. key: rel value: nofollow
+		attribute. key: class value: external text
+		attribute. key: href value: http://blog.mozilla.com/tilt/
+	tag: a target: a line: 2083
+		attribute. key: href value: #
+		attribute. key: id value: collapseButton0
+	tag: a target: a line: 2086
+		attribute. key: href value: http://en.wikipedia.org/wiki/Template:W3C_standards
+		attribute. key: title value: Template:W3C standards
+	tag: a target: a line: 2087
+		attribute. key: href value: http://en.wikipedia.org/wiki/Template_talk:W3C_standards
+		attribute. key: title value: Template talk:W3C standards
+	tag: a target: a line: 2088
+		attribute. key: class value: external text
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Template:W3C_standards&action=edit
+	tag: a target: a line: 2091
+		attribute. key: href value: http://en.wikipedia.org/wiki/World_Wide_Web_Consortium
+		attribute. key: title value: World Wide Web Consortium
+	tag: a target: a line: 2105
+		attribute. key: href value: http://en.wikipedia.org/wiki/W3C_recommendation
+		attribute. key: title value: W3C recommendation
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2110
+		attribute. key: href value: http://en.wikipedia.org/wiki/WAI-ARIA
+		attribute. key: title value: WAI-ARIA
+	tag: a target: a line: 2111
+		attribute. key: href value: http://en.wikipedia.org/wiki/Canonical_XML
+		attribute. key: title value: Canonical XML
+	tag: a target: a line: 2112
+		attribute. key: href value: http://en.wikipedia.org/wiki/Compound_Document_Format
+		attribute. key: title value: Compound Document Format
+	tag: a target: a line: 2113
+		attribute. key: href value: http://en.wikipedia.org/wiki/Cascading_Style_Sheets
+		attribute. key: title value: Cascading Style Sheets
+	tag: a target: a line: 2115
+		attribute. key: href value: http://en.wikipedia.org/wiki/W3C_Geolocation_API
+		attribute. key: title value: W3C Geolocation API
+	tag: a target: a line: 2116
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML
+		attribute. key: title value: HTML
+	tag: a target: a line: 2117
+		attribute. key: href value: http://en.wikipedia.org/wiki/Internationalization_Tag_Set
+		attribute. key: title value: Internationalization Tag Set
+	tag: a target: a line: 2118
+		attribute. key: href value: http://en.wikipedia.org/wiki/MathML
+		attribute. key: title value: MathML
+	tag: a target: a line: 2119
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_Ontology_Language
+		attribute. key: title value: Web Ontology Language
+	tag: a target: a line: 2120
+		attribute. key: href value: http://en.wikipedia.org/wiki/P3P
+		attribute. key: title value: P3P
+	tag: a target: a line: 2121
+		attribute. key: href value: http://en.wikipedia.org/wiki/Pronunciation_Lexicon_Specification
+		attribute. key: title value: Pronunciation Lexicon Specification
+	tag: a target: a line: 2122
+		attribute. key: href value: http://en.wikipedia.org/wiki/Resource_Description_Framework
+		attribute. key: title value: Resource Description Framework
+	tag: a target: a line: 2123
+		attribute. key: href value: http://en.wikipedia.org/wiki/RDF_Schema
+		attribute. key: title value: RDF Schema
+	tag: a target: a line: 2124
+		attribute. key: href value: http://en.wikipedia.org/wiki/Semantic_Interpretation_for_Speech_Recognition
+		attribute. key: title value: Semantic Interpretation for Speech Recognition
+	tag: a target: a line: 2125
+		attribute. key: href value: http://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System
+		attribute. key: title value: Simple Knowledge Organization System
+	tag: a target: a line: 2126
+		attribute. key: href value: http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language
+		attribute. key: title value: Synchronized Multimedia Integration Language
+	tag: a target: a line: 2127
+		attribute. key: href value: http://en.wikipedia.org/wiki/SOAP
+		attribute. key: title value: SOAP
+	tag: a target: a line: 2128
+		attribute. key: href value: http://en.wikipedia.org/wiki/Speech_Recognition_Grammar_Specification
+		attribute. key: title value: Speech Recognition Grammar Specification
+	tag: a target: a line: 2129
+		attribute. key: href value: http://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language
+		attribute. key: title value: Speech Synthesis Markup Language
+	tag: a target: a line: 2130
+		attribute. key: href value: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
+		attribute. key: title value: Scalable Vector Graphics
+	tag: a target: a line: 2131
+		attribute. key: href value: http://en.wikipedia.org/wiki/SPARQL
+		attribute. key: title value: SPARQL
+	tag: a target: a line: 2132
+		attribute. key: href value: http://en.wikipedia.org/wiki/Timed_text
+		attribute. key: title value: Timed text
+	tag: a target: a line: 2133
+		attribute. key: href value: http://en.wikipedia.org/wiki/VoiceXML
+		attribute. key: title value: VoiceXML
+	tag: a target: a line: 2134
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_Storage
+		attribute. key: title value: Web Storage
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2135
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_Services_Description_Language
+		attribute. key: title value: Web Services Description Language
+	tag: a target: a line: 2136
+		attribute. key: href value: http://en.wikipedia.org/wiki/XForms
+		attribute. key: title value: XForms
+	tag: a target: a line: 2137
+		attribute. key: href value: http://en.wikipedia.org/wiki/XHTML
+		attribute. key: title value: XHTML
+	tag: a target: a line: 2138
+		attribute. key: href value: http://en.wikipedia.org/wiki/XHTML%2BRDFa
+		attribute. key: title value: XHTML+RDFa
+	tag: a target: a line: 2139
+		attribute. key: href value: http://en.wikipedia.org/wiki/XInclude
+		attribute. key: title value: XInclude
+	tag: a target: a line: 2140
+		attribute. key: href value: http://en.wikipedia.org/wiki/XLink
+		attribute. key: title value: XLink
+	tag: a target: a line: 2141
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML
+		attribute. key: title value: XML
+	tag: a target: a line: 2142
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML_Base
+		attribute. key: title value: XML Base
+	tag: a target: a line: 2143
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML_Encryption
+		attribute. key: title value: XML Encryption
+	tag: a target: a line: 2144
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML_Events
+		attribute. key: title value: XML Events
+	tag: a target: a line: 2145
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML_Information_Set
+		attribute. key: title value: XML Information Set
+	tag: a target: a line: 2146
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML_namespace
+		attribute. key: title value: XML namespace
+	tag: a target: a line: 2147
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML_Schema_%28W3C%29
+		attribute. key: title value: XML Schema (W3C)
+	tag: a target: a line: 2148
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML_Signature
+		attribute. key: title value: XML Signature
+	tag: a target: a line: 2149
+		attribute. key: href value: http://en.wikipedia.org/wiki/XML-binary_Optimized_Packaging
+		attribute. key: title value: XML-binary Optimized Packaging
+	tag: a target: a line: 2150
+		attribute. key: href value: http://en.wikipedia.org/wiki/XPath
+		attribute. key: title value: XPath
+	tag: a target: a line: 2150
+		attribute. key: href value: http://en.wikipedia.org/wiki/XPath_1.0
+		attribute. key: title value: XPath 1.0
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2150
+		attribute. key: href value: http://en.wikipedia.org/wiki/XPath_2.0
+		attribute. key: title value: XPath 2.0
+	tag: a target: a line: 2151
+		attribute. key: href value: http://en.wikipedia.org/wiki/XPointer
+		attribute. key: title value: XPointer
+	tag: a target: a line: 2152
+		attribute. key: href value: http://en.wikipedia.org/wiki/XProc
+		attribute. key: title value: XProc
+	tag: a target: a line: 2153
+		attribute. key: href value: http://en.wikipedia.org/wiki/XQuery
+		attribute. key: title value: XQuery
+	tag: a target: a line: 2154
+		attribute. key: href value: http://en.wikipedia.org/wiki/Extensible_Stylesheet_Language
+		attribute. key: title value: Extensible Stylesheet Language
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2155
+		attribute. key: href value: http://en.wikipedia.org/wiki/XSL_Formatting_Objects
+		attribute. key: title value: XSL Formatting Objects
+	tag: a target: a line: 2156
+		attribute. key: href value: http://en.wikipedia.org/wiki/XSLT
+		attribute. key: title value: XSLT
+	tag: a target: a line: 2156
+		attribute. key: href value: http://en.wikipedia.org/wiki/XSLT_elements
+		attribute. key: title value: XSLT elements
+	tag: a target: a line: 2171
+		attribute. key: href value: http://en.wikipedia.org/wiki/XAdES
+		attribute. key: title value: XAdES
+	tag: a target: a line: 2172
+		attribute. key: href value: http://en.wikipedia.org/wiki/XHTML%2BSMIL
+		attribute. key: title value: XHTML+SMIL
+	tag: a target: a line: 2173
+		attribute. key: href value: http://en.wikipedia.org/wiki/Extensible_User_Interface_Protocol
+		attribute. key: title value: Extensible User Interface Protocol
+	tag: a target: a line: 2188
+		attribute. key: href value: http://en.wikipedia.org/wiki/Call_Control_eXtensible_Markup_Language
+		attribute. key: title value: Call Control eXtensible Markup Language
+	tag: a target: a line: 2189
+		attribute. key: href value: http://en.wikipedia.org/wiki/CURIE
+		attribute. key: title value: CURIE
+	tag: a target: a line: 2190
+		attribute. key: href value: http://en.wikipedia.org/wiki/Encrypted_Media_Extensions
+		attribute. key: title value: Encrypted Media Extensions
+	tag: a target: a line: 2191
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML5
+		attribute. key: title value: HTML5
+	tag: a target: a line: 2192
+		attribute. key: href value: http://en.wikipedia.org/wiki/InkML
+		attribute. key: title value: InkML
+	tag: a target: a line: 2193
+		attribute. key: href value: http://en.wikipedia.org/wiki/JSON-LD
+		attribute. key: title value: JSON-LD
+	tag: a target: a line: 2194
+		attribute. key: href value: http://en.wikipedia.org/wiki/Media_Source_Extensions
+		attribute. key: title value: Media Source Extensions
+	tag: a target: a line: 2195
+		attribute. key: href value: http://en.wikipedia.org/wiki/Rule_Interchange_Format
+		attribute. key: title value: Rule Interchange Format
+	tag: a target: a line: 2196
+		attribute. key: href value: http://en.wikipedia.org/wiki/SCXML
+		attribute. key: title value: SCXML
+	tag: a target: a line: 2197
+		attribute. key: href value: http://en.wikipedia.org/wiki/SMIL_Timesheets
+		attribute. key: title value: SMIL Timesheets
+	tag: a target: a line: 2198
+		attribute. key: href value: http://en.wikipedia.org/wiki/SXBL
+		attribute. key: title value: SXBL
+	tag: a target: a line: 2199
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_Integration_Compound_Document
+		attribute. key: title value: Web Integration Compound Document
+	tag: a target: a line: 2200
+		attribute. key: href value: http://en.wikipedia.org/wiki/Extensible_Forms_Description_Language
+		attribute. key: title value: Extensible Forms Description Language
+	tag: a target: a line: 2201
+		attribute. key: href value: http://en.wikipedia.org/wiki/XFrames
+		attribute. key: title value: XFrames
+	tag: a target: a line: 2202
+		attribute. key: href value: http://en.wikipedia.org/wiki/XBL
+		attribute. key: title value: XBL
+	tag: a target: a line: 2203
+		attribute. key: href value: http://en.wikipedia.org/wiki/XMLHttpRequest
+		attribute. key: title value: XMLHttpRequest
+	tag: a target: a line: 2218
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+		attribute. key: title value: Web Content Accessibility Guidelines
+	tag: a target: a line: 2233
+		attribute. key: href value: http://en.wikipedia.org/wiki/W3C_MMI
+		attribute. key: title value: W3C MMI
+	tag: a target: a line: 2234
+		attribute. key: href value: http://en.wikipedia.org/wiki/W3C_Markup_Validation_Service
+		attribute. key: title value: W3C Markup Validation Service
+	tag: a target: a line: 2235
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_Accessibility_Initiative
+		attribute. key: title value: Web Accessibility Initiative
+	tag: a target: a line: 2236
+		attribute. key: href value: http://en.wikipedia.org/wiki/WebPlatform
+		attribute. key: title value: WebPlatform
+	tag: a target: a line: 2251
+		attribute. key: href value: http://en.wikipedia.org/wiki/C-HTML
+		attribute. key: title value: C-HTML
+	tag: a target: a line: 2252
+		attribute. key: href value: http://en.wikipedia.org/wiki/Handheld_Device_Markup_Language
+		attribute. key: title value: Handheld Device Markup Language
+	tag: a target: a line: 2253
+		attribute. key: href value: http://en.wikipedia.org/wiki/JavaScript_Style_Sheets
+		attribute. key: title value: JavaScript Style Sheets
+	tag: a target: a line: 2254
+		attribute. key: href value: http://en.wikipedia.org/wiki/Precision_Graphics_Markup_Language
+		attribute. key: title value: Precision Graphics Markup Language
+	tag: a target: a line: 2255
+		attribute. key: href value: http://en.wikipedia.org/wiki/Vector_Markup_Language
+		attribute. key: title value: Vector Markup Language
+	tag: a target: a line: 2256
+		attribute. key: href value: http://en.wikipedia.org/wiki/XHTML%2BMathML%2BSVG
+		attribute. key: title value: XHTML+MathML+SVG
+	tag: a target: a line: 2272
+		attribute. key: href value: http://en.wikipedia.org/wiki/World_Wide_Web_Foundation
+		attribute. key: title value: World Wide Web Foundation
+	tag: a target: a line: 2273
+		attribute. key: href value: http://en.wikipedia.org/wiki/SVG_Working_Group
+		attribute. key: title value: SVG Working Group
+	tag: a target: a line: 2274
+		attribute. key: href value: http://en.wikipedia.org/wiki/CSS_Working_Group
+		attribute. key: title value: CSS Working Group
+	tag: a target: a line: 2275
+		attribute. key: href value: http://en.wikipedia.org/wiki/HTML_Working_Group
+		attribute. key: title value: HTML Working Group
+	tag: a target: a line: 2276
+		attribute. key: href value: http://en.wikipedia.org/wiki/WebOnt
+		attribute. key: title value: WebOnt
+	tag: a target: a line: 2277
+		attribute. key: href value: http://en.wikipedia.org/wiki/W3C_Device_Description_Working_Group
+		attribute. key: title value: W3C Device Description Working Group
+	tag: a target: a line: 2278
+		attribute. key: href value: http://en.wikipedia.org/wiki/Web_Hypertext_Application_Technology_Working_Group
+		attribute. key: title value: Web Hypertext Application Technology Working Group
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2291
+		attribute. key: href value: http://en.wikipedia.org/wiki/Agora_%28web_browser%29
+		attribute. key: title value: Agora (web browser)
+	tag: a target: a line: 2292
+		attribute. key: href value: http://en.wikipedia.org/wiki/Argo_%28web_browser%29
+		attribute. key: title value: Argo (web browser)
+	tag: a target: a line: 2293
+		attribute. key: href value: http://en.wikipedia.org/wiki/Arena_%28web_browser%29
+		attribute. key: title value: Arena (web browser)
+	tag: a target: a line: 2294
+		attribute. key: href value: http://en.wikipedia.org/wiki/Amaya_%28web_browser%29
+		attribute. key: title value: Amaya (web browser)
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2295
+		attribute. key: href value: http://en.wikipedia.org/wiki/CERN_httpd
+		attribute. key: title value: CERN httpd
+	tag: a target: a line: 2296
+		attribute. key: href value: http://en.wikipedia.org/wiki/Libwww
+		attribute. key: title value: Libwww
+	tag: a target: a line: 2297
+		attribute. key: href value: http://en.wikipedia.org/wiki/Line_Mode_Browser
+		attribute. key: title value: Line Mode Browser
+	tag: a target: a line: 2310
+		attribute. key: href value: http://en.wikipedia.org/wiki/The_International_World_Wide_Web_Conferences_Steering_Committee
+		attribute. key: title value: The International World Wide Web Conferences Steering Committee
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2311
+		attribute. key: href value: http://en.wikipedia.org/wiki/World_Wide_Web_Conference
+		attribute. key: title value: World Wide Web Conference
+		attribute. key: class value: mw-redirect
+	tag: a target: a line: 2312
+		attribute. key: href value: http://en.wikipedia.org/wiki/First_International_Conference_on_the_World-Wide_Web
+		attribute. key: title value: First International Conference on the World-Wide Web
+	tag: a target: a line: 2341
+		attribute. key: dir value: ltr
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&oldid=625111090
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Help:Category
+		attribute. key: title value: Help:Category
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:Application_programming_interfaces
+		attribute. key: title value: Category:Application programming interfaces
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:Object_models
+		attribute. key: title value: Category:Object models
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:World_Wide_Web_Consortium_standards
+		attribute. key: title value: Category:World Wide Web Consortium standards
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:XML-based_standards
+		attribute. key: title value: Category:XML-based standards
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:HTML
+		attribute. key: title value: Category:HTML
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:Articles_lacking_in-text_citations_from_August_2010
+		attribute. key: title value: Category:Articles lacking in-text citations from August 2010
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:All_articles_lacking_in-text_citations
+		attribute. key: title value: Category:All articles lacking in-text citations
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements
+		attribute. key: title value: Category:All articles with unsourced statements
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_January_2012
+		attribute. key: title value: Category:Articles with unsourced statements from January 2012
+	tag: a target: a line: 2342
+		attribute. key: href value: http://en.wikipedia.org/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata
+		attribute. key: title value: Category:Commons category with local link same as on Wikidata
+	tag: a target: a line: 2352
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Document+Object+Model&type=signup
+	tag: a target: a line: 2352
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Document+Object+Model
+		attribute. key: title value: You're encouraged to log in; however, it's not mandatory. [Alt+Shift+o]
+		attribute. key: accesskey value: o
+	tag: a target: a line: 2358
+		attribute. key: href value: http://en.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: View the content page [Alt+Shift+c]
+		attribute. key: accesskey value: c
+	tag: a target: a line: 2359
+		attribute. key: href value: http://en.wikipedia.org/wiki/Talk:Document_Object_Model
+		attribute. key: title value: Discussion about the content page [Alt+Shift+t]
+		attribute. key: accesskey value: t
+	tag: a target: a line: 2363
+		attribute. key: tabindex value: -1
+		attribute. key: href value: #
+	tag: a target: a line: 2375
+		attribute. key: href value: http://en.wikipedia.org/wiki/Document_Object_Model
+	tag: a target: a line: 2376
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit
+		attribute. key: title value: You can edit this page. Please use the preview button before saving [Alt+Shift+e]
+		attribute. key: accesskey value: e
+	tag: a target: a line: 2377
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=history
+		attribute. key: title value: Past versions of this page [Alt+Shift+h]
+		attribute. key: accesskey value: h
+	tag: a target: a line: 2381
+		attribute. key: tabindex value: -1
+		attribute. key: href value: #
+	tag: a target: a line: 2401
+		attribute. key: style value: background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);
+		attribute. key: href value: http://en.wikipedia.org/wiki/Main_Page
+		attribute. key: title value: Visit the main page
+	tag: a target: a line: 2407
+		attribute. key: href value: http://en.wikipedia.org/wiki/Main_Page
+		attribute. key: title value: Visit the main page [Alt+Shift+z]
+		attribute. key: accesskey value: z
+	tag: a target: a line: 2408
+		attribute. key: href value: http://en.wikipedia.org/wiki/Portal:Contents
+		attribute. key: title value: Guides to browsing Wikipedia
+	tag: a target: a line: 2409
+		attribute. key: href value: http://en.wikipedia.org/wiki/Portal:Featured_content
+		attribute. key: title value: Featured content – the best of Wikipedia
+	tag: a target: a line: 2410
+		attribute. key: href value: http://en.wikipedia.org/wiki/Portal:Current_events
+		attribute. key: title value: Find background information on current events
+	tag: a target: a line: 2411
+		attribute. key: href value: http://en.wikipedia.org/wiki/Special:Random
+		attribute. key: title value: Load a random article [Alt+Shift+x]
+		attribute. key: accesskey value: x
+	tag: a target: a line: 2412
+		attribute. key: href value: https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
+		attribute. key: title value: Support us
+	tag: a target: a line: 2413
+		attribute. key: href value: http://shop.wikimedia.org/
+		attribute. key: title value: Visit the Wikimedia Shop
+	tag: a target: a line: 2422
+		attribute. key: href value: http://en.wikipedia.org/wiki/Help:Contents
+		attribute. key: title value: Guidance on how to use and edit Wikipedia
+	tag: a target: a line: 2423
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:About
+		attribute. key: title value: Find out about Wikipedia
+	tag: a target: a line: 2424
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:Community_portal
+		attribute. key: title value: About the project, what you can do, where to find things
+	tag: a target: a line: 2425
+		attribute. key: href value: http://en.wikipedia.org/wiki/Special:RecentChanges
+		attribute. key: title value: A list of recent changes in the wiki [Alt+Shift+r]
+		attribute. key: accesskey value: r
+	tag: a target: a line: 2426
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:Contact_us
+	tag: a target: a line: 2435
+		attribute. key: href value: http://en.wikipedia.org/wiki/Special:WhatLinksHere/Document_Object_Model
+		attribute. key: title value: List of all English Wikipedia pages containing links to this page [Alt+Shift+j]
+		attribute. key: accesskey value: j
+	tag: a target: a line: 2436
+		attribute. key: href value: http://en.wikipedia.org/wiki/Special:RecentChangesLinked/Document_Object_Model
+		attribute. key: title value: Recent changes in pages linked from this page [Alt+Shift+k]
+		attribute. key: accesskey value: k
+	tag: a target: a line: 2437
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard
+		attribute. key: title value: Upload files [Alt+Shift+u]
+		attribute. key: accesskey value: u
+	tag: a target: a line: 2438
+		attribute. key: href value: http://en.wikipedia.org/wiki/Special:SpecialPages
+		attribute. key: title value: A list of all special pages [Alt+Shift+q]
+		attribute. key: accesskey value: q
+	tag: a target: a line: 2439
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&oldid=625111090
+		attribute. key: title value: Permanent link to this revision of the page
+	tag: a target: a line: 2440
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=info
+	tag: a target: a line: 2441
+		attribute. key: href value: http://www.wikidata.org/wiki/Q2093
+		attribute. key: title value: Link to connected data repository item [Alt+Shift+g]
+		attribute. key: accesskey value: g
+	tag: a target: a line: 2442
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Special:Cite&page=Document_Object_Model&id=625111090
+		attribute. key: title value: Information on how to cite this page
+	tag: a target: a line: 2450
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Document+Object+Model
+	tag: a target: a line: 2451
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=Document+Object+Model&oldid=625111090&writer=rl
+	tag: a target: a line: 2452
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&printable=yes
+		attribute. key: title value: Printable version of this page [Alt+Shift+p]
+		attribute. key: accesskey value: p
+	tag: a target: a line: 2461
+		attribute. key: href value: http://af.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Afrikaans
+		attribute. key: hreflang value: af
+		attribute. key: lang value: af
+	tag: a target: a line: 2462
+		attribute. key: href value: http://ar.wikipedia.org/wiki/%D9%86%D9%85%D9%88%D8%B0%D8%AC_%D9%83%D8%A7%D8%A6%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%86%D8%AF
+		attribute. key: title value: نموذج كائن المستند – Arabic
+		attribute. key: hreflang value: ar
+		attribute. key: lang value: ar
+	tag: a target: a line: 2463
+		attribute. key: href value: http://ca.wikipedia.org/wiki/Model_d%27Objectes_del_Document
+		attribute. key: title value: Model d'Objectes del Document – Catalan
+		attribute. key: hreflang value: ca
+		attribute. key: lang value: ca
+	tag: a target: a line: 2464
+		attribute. key: href value: http://cs.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Czech
+		attribute. key: hreflang value: cs
+		attribute. key: lang value: cs
+	tag: a target: a line: 2465
+		attribute. key: href value: http://de.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – German
+		attribute. key: hreflang value: de
+		attribute. key: lang value: de
+	tag: a target: a line: 2466
+		attribute. key: href value: http://et.wikipedia.org/wiki/Dokumendi_objektimudel
+		attribute. key: title value: Dokumendi objektimudel – Estonian
+		attribute. key: hreflang value: et
+		attribute. key: lang value: et
+	tag: a target: a line: 2467
+		attribute. key: href value: http://es.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Spanish
+		attribute. key: hreflang value: es
+		attribute. key: lang value: es
+	tag: a target: a line: 2468
+		attribute. key: href value: http://eu.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Basque
+		attribute. key: hreflang value: eu
+		attribute. key: lang value: eu
+	tag: a target: a line: 2469
+		attribute. key: href value: http://fa.wikipedia.org/wiki/%D9%85%D8%AF%D9%84_%D8%B4%DB%8C%E2%80%8C%DA%AF%D8%B1%D8%A7%DB%8C_%D8%B3%D9%86%D8%AF
+		attribute. key: title value: مدل شی‌گرای سند – Persian
+		attribute. key: hreflang value: fa
+		attribute. key: lang value: fa
+	tag: a target: a line: 2470
+		attribute. key: href value: http://fr.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – French
+		attribute. key: hreflang value: fr
+		attribute. key: lang value: fr
+	tag: a target: a line: 2471
+		attribute. key: href value: http://ko.wikipedia.org/wiki/%EB%AC%B8%EC%84%9C_%EA%B0%9D%EC%B2%B4_%EB%AA%A8%EB%8D%B8
+		attribute. key: title value: 문서 객체 모델 – Korean
+		attribute. key: hreflang value: ko
+		attribute. key: lang value: ko
+	tag: a target: a line: 2472
+		attribute. key: href value: http://id.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Indonesian
+		attribute. key: hreflang value: id
+		attribute. key: lang value: id
+	tag: a target: a line: 2473
+		attribute. key: href value: http://it.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Italian
+		attribute. key: hreflang value: it
+		attribute. key: lang value: it
+	tag: a target: a line: 2474
+		attribute. key: href value: http://he.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Hebrew
+		attribute. key: hreflang value: he
+		attribute. key: lang value: he
+	tag: a target: a line: 2475
+		attribute. key: href value: http://hu.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Hungarian
+		attribute. key: hreflang value: hu
+		attribute. key: lang value: hu
+	tag: a target: a line: 2476
+		attribute. key: href value: http://mk.wikipedia.org/wiki/DOM
+		attribute. key: title value: DOM – Macedonian
+		attribute. key: hreflang value: mk
+		attribute. key: lang value: mk
+	tag: a target: a line: 2477
+		attribute. key: href value: http://ml.wikipedia.org/wiki/%E0%B4%A1%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%AF%E0%B5%81%E0%B4%AE%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%8D_%E0%B4%92%E0%B4%AC%E0%B5%8D%E0%B4%9C%E0%B4%95%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D_%E0%B4%AE%E0%B5%8B%E0%B4%A1%E0%B5%BD
+		attribute. key: title value: ഡോക്യുമെന്റ് ഒബ്ജക്റ്റ് മോഡൽ – Malayalam
+		attribute. key: hreflang value: ml
+		attribute. key: lang value: ml
+	tag: a target: a line: 2478
+		attribute. key: href value: http://ms.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Malay
+		attribute. key: hreflang value: ms
+		attribute. key: lang value: ms
+	tag: a target: a line: 2479
+		attribute. key: href value: http://nl.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Dutch
+		attribute. key: hreflang value: nl
+		attribute. key: lang value: nl
+	tag: a target: a line: 2480
+		attribute. key: href value: http://ja.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Japanese
+		attribute. key: hreflang value: ja
+		attribute. key: lang value: ja
+	tag: a target: a line: 2481
+		attribute. key: href value: http://no.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Norwegian (bokmål)
+		attribute. key: hreflang value: no
+		attribute. key: lang value: no
+	tag: a target: a line: 2482
+		attribute. key: href value: http://nn.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Norwegian Nynorsk
+		attribute. key: hreflang value: nn
+		attribute. key: lang value: nn
+	tag: a target: a line: 2483
+		attribute. key: href value: http://pl.wikipedia.org/wiki/Obiektowy_model_dokumentu
+		attribute. key: title value: Obiektowy model dokumentu – Polish
+		attribute. key: hreflang value: pl
+		attribute. key: lang value: pl
+	tag: a target: a line: 2484
+		attribute. key: href value: http://pt.wikipedia.org/wiki/Modelo_de_Objeto_de_Documentos
+		attribute. key: title value: Modelo de Objeto de Documentos – Portuguese
+		attribute. key: hreflang value: pt
+		attribute. key: lang value: pt
+	tag: a target: a line: 2485
+		attribute. key: href value: http://ru.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Russian
+		attribute. key: hreflang value: ru
+		attribute. key: lang value: ru
+	tag: a target: a line: 2486
+		attribute. key: href value: http://simple.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Simple English
+		attribute. key: hreflang value: simple
+		attribute. key: lang value: simple
+	tag: a target: a line: 2487
+		attribute. key: href value: http://sk.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Slovak
+		attribute. key: hreflang value: sk
+		attribute. key: lang value: sk
+	tag: a target: a line: 2488
+		attribute. key: href value: http://sr.wikipedia.org/wiki/Objektni_model_dokumenta
+		attribute. key: title value: Objektni model dokumenta – Serbian
+		attribute. key: hreflang value: sr
+		attribute. key: lang value: sr
+	tag: a target: a line: 2489
+		attribute. key: href value: http://fi.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Finnish
+		attribute. key: hreflang value: fi
+		attribute. key: lang value: fi
+	tag: a target: a line: 2490
+		attribute. key: href value: http://sv.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Swedish
+		attribute. key: hreflang value: sv
+		attribute. key: lang value: sv
+	tag: a target: a line: 2491
+		attribute. key: href value: http://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B5%E0%AE%A3%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95_%E0%AE%AE%E0%AE%BE%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BF
+		attribute. key: title value: ஆவணப் பொருளாக்க மாதிரி – Tamil
+		attribute. key: hreflang value: ta
+		attribute. key: lang value: ta
+	tag: a target: a line: 2492
+		attribute. key: href value: http://th.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Thai
+		attribute. key: hreflang value: th
+		attribute. key: lang value: th
+	tag: a target: a line: 2493
+		attribute. key: href value: http://tr.wikipedia.org/wiki/Document_Object_Model
+		attribute. key: title value: Document Object Model – Turkish
+		attribute. key: hreflang value: tr
+		attribute. key: lang value: tr
+	tag: a target: a line: 2494
+		attribute. key: href value: http://tk.wikipedia.org/wiki/DOM
+		attribute. key: title value: DOM – Turkmen
+		attribute. key: hreflang value: tk
+		attribute. key: lang value: tk
+	tag: a target: a line: 2495
+		attribute. key: href value: http://uk.wikipedia.org/wiki/%D0%9E%D0%B1%27%D1%94%D0%BA%D1%82%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0
+		attribute. key: title value: Об'єктна модель документа – Ukrainian
+		attribute. key: hreflang value: uk
+		attribute. key: lang value: uk
+	tag: a target: a line: 2496
+		attribute. key: href value: http://vi.wikipedia.org/wiki/DOM
+		attribute. key: title value: DOM – Vietnamese
+		attribute. key: hreflang value: vi
+		attribute. key: lang value: vi
+	tag: a target: a line: 2497
+		attribute. key: href value: http://zh.wikipedia.org/wiki/%E6%96%87%E6%A1%A3%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B
+		attribute. key: title value: 文档对象模型 – Chinese
+		attribute. key: hreflang value: zh
+		attribute. key: lang value: zh
+	tag: a target: a line: 2500
+		attribute. key: action value: edit
+		attribute. key: href value: http://www.wikidata.org/wiki/Q2093#sitelinks-wikipedia
+		attribute. key: text value: Edit links
+		attribute. key: title value: Edit interlanguage links
+		attribute. key: class value: wbc-editpage
+	tag: a target: a line: 2507
+		attribute. key: rel value: license
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+	tag: a target: a line: 2507
+		attribute. key: rel value: license
+		attribute. key: href value: http://creativecommons.org/licenses/by-sa/3.0/
+		attribute. key: style value: display:none;
+	tag: a target: a line: 2508
+		attribute. key: href value: http://wikimediafoundation.org/wiki/Terms_of_Use
+	tag: a target: a line: 2508
+		attribute. key: href value: http://wikimediafoundation.org/wiki/Privacy_policy
+	tag: a target: a line: 2508
+		attribute. key: href value: http://www.wikimediafoundation.org/
+	tag: a target: a line: 2511
+		attribute. key: href value: http://wikimediafoundation.org/wiki/Privacy_policy
+		attribute. key: title value: wikimedia:Privacy policy
+	tag: a target: a line: 2512
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:About
+		attribute. key: title value: Wikipedia:About
+	tag: a target: a line: 2513
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+		attribute. key: title value: Wikipedia:General disclaimer
+	tag: a target: a line: 2514
+		attribute. key: href value: http://en.wikipedia.org/wiki/Wikipedia:Contact_us
+	tag: a target: a line: 2515
+		attribute. key: href value: https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+	tag: a target: a line: 2516
+		attribute. key: href value: http://en.m.wikipedia.org/w/index.php?title=Document_Object_Model&mobileaction=toggle_view_mobile
+		attribute. key: class value: noprint stopMobileRedirectToggle
+	tag: a target: a line: 2520
+		attribute. key: href value: http://wikimediafoundation.org/
+	tag: a target: a line: 2523
+		attribute. key: href value: http://www.mediawiki.org/
+found 393 <a> tags
+	tag: link target: link line: 7
+		attribute. key: rel value: alternate
+		attribute. key: href value: android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Document_Object_Model
+	tag: link target: link line: 8
+		attribute. key: rel value: alternate
+		attribute. key: type value: application/x-wiki
+		attribute. key: title value: Edit this page
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit
+	tag: link target: link line: 9
+		attribute. key: rel value: edit
+		attribute. key: title value: Edit this page
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Document_Object_Model&action=edit
+	tag: link target: link line: 10
+		attribute. key: rel value: apple-touch-icon
+		attribute. key: href value: http://bits.wikimedia.org/apple-touch/wikipedia.png
+	tag: link target: link line: 11
+		attribute. key: rel value: shortcut icon
+		attribute. key: href value: http://bits.wikimedia.org/favicon/wikipedia.ico
+	tag: link target: link line: 12
+		attribute. key: rel value: search
+		attribute. key: type value: application/opensearchdescription+xml
+		attribute. key: href value: http://en.wikipedia.org/w/opensearch_desc.php
+		attribute. key: title value: Wikipedia (en)
+	tag: link target: link line: 13
+		attribute. key: rel value: EditURI
+		attribute. key: type value: application/rsd+xml
+		attribute. key: href value: http://en.wikipedia.org/w/api.php?action=rsd
+	tag: link target: link line: 14
+		attribute. key: rel value: alternate
+		attribute. key: hreflang value: x-default
+		attribute. key: href value: http://en.wikipedia.org/wiki/Document_Object_Model
+	tag: link target: link line: 15
+		attribute. key: rel value: copyright
+		attribute. key: href value: http://creativecommons.org/licenses/by-sa/3.0/
+	tag: link target: link line: 16
+		attribute. key: rel value: alternate
+		attribute. key: type value: application/atom+xml
+		attribute. key: title value: Wikipedia Atom feed
+		attribute. key: href value: http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom
+	tag: link target: link line: 17
+		attribute. key: rel value: canonical
+		attribute. key: href value: http://en.wikipedia.org/wiki/Document_Object_Model
+	tag: link target: link line: 18
+		attribute. key: rel value: stylesheet
+		attribute. key: href value: Document%20Object%20Model_files/load_002.css
+	tag: link target: link line: 50
+		attribute. key: rel value: stylesheet
+		attribute. key: href value: Document%20Object%20Model_files/load.css
+	tag: link target: link line: 66
+		attribute. key: rel value: dns-prefetch
+		attribute. key: href value: http://meta.wikimedia.org/
+found 14 <link> tags
+	tag: sup target: sup line: 1923
+		attribute. key: id value: cite_ref-Introduction_1-0
+		attribute. key: class value: reference
+	tag: sup target: sup line: 1994
+		attribute. key: id value: cite_ref-2
+		attribute. key: class value: reference
+	tag: sup target: sup line: 2008
+		attribute. key: class value: noprint Inline-Template Template-Fact
+		attribute. key: style value: white-space:nowrap;
+	tag: sup target: sup line: 2018
+		attribute. key: id value: cite_ref-3
+		attribute. key: class value: reference
+found 4 <sup> tags
+	tag: table target: table line: 335
+		attribute. key: id value: B14_1003_enUS_dsk_rpt_2-main
+		attribute. key: style value: height: 117px;
+	tag: table target: table line: 366
+	tag: table target: table line: 1767
+		attribute. key: class value: metadata plainlinks ambox ambox-style ambox-More_footnotes
+		attribute. key: role value: presentation
+	tag: table target: table line: 1775
+		attribute. key: class value: vertical-navbox nowraplinks
+		attribute. key: style value: float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;
+		attribute. key: cellpadding value: 0
+		attribute. key: cellspacing value: 5
+	tag: table target: table line: 2061
+		attribute. key: class value: mbox-small plainlinks
+		attribute. key: style value: border:1px solid #aaa;background-color:#f9f9f9
+	tag: table target: table line: 2078
+		attribute. key: class value: navbox
+		attribute. key: style value: border-spacing:0;
+		attribute. key: cellspacing value: 0
+	tag: table target: table line: 2081
+		attribute. key: id value: collapsibleTable0
+		attribute. key: class value: nowraplinks collapsible autocollapse navbox-inner
+		attribute. key: style value: border-spacing:0;background:transparent;color:inherit;
+		attribute. key: cellspacing value: 0
+	tag: table target: table line: 2102
+		attribute. key: class value: nowraplinks navbox-subgroup
+		attribute. key: style value: border-spacing:0;
+		attribute. key: cellspacing value: 0
+found 8 <table> tags
+	tag: tbody target: tbody line: 336
+	tag: tbody target: tbody line: 367
+	tag: tbody target: tbody line: 1768
+	tag: tbody target: tbody line: 1776
+	tag: tbody target: tbody line: 2062
+	tag: tbody target: tbody line: 2079
+	tag: tbody target: tbody line: 2082
+	tag: tbody target: tbody line: 2103
+found 8 <tbody> tags
+	tag: li target: li line: 1782
+	tag: li target: li line: 1785
+	tag: li target: li line: 1786
+	tag: li target: li line: 1787
+	tag: li target: li line: 1791
+	tag: li target: li line: 1792
+	tag: li target: li line: 1796
+	tag: li target: li line: 1797
+	tag: li target: li line: 1798
+	tag: li target: li line: 1803
+	tag: li target: li line: 1807
+	tag: li target: li line: 1812
+	tag: li target: li line: 1813
+	tag: li target: li line: 1816
+	tag: li target: li line: 1817
+	tag: li target: li line: 1821
+	tag: li target: li line: 1822
+	tag: li target: li line: 1823
+	tag: li target: li line: 1824
+	tag: li target: li line: 1827
+	tag: li target: li line: 1828
+	tag: li target: li line: 1832
+	tag: li target: li line: 1835
+	tag: li target: li line: 1836
+	tag: li target: li line: 1840
+	tag: li target: li line: 1843
+	tag: li target: li line: 1844
+	tag: li target: li line: 1848
+	tag: li target: li line: 1851
+	tag: li target: li line: 1852
+	tag: li target: li line: 1853
+	tag: li target: li line: 1857
+	tag: li target: li line: 1858
+	tag: li target: li line: 1859
+	tag: li target: li line: 1862
+	tag: li target: li line: 1863
+	tag: li target: li line: 1864
+	tag: li target: li line: 1868
+	tag: li target: li line: 1871
+	tag: li target: li line: 1872
+	tag: li target: li line: 1876
+	tag: li target: li line: 1877
+	tag: li target: li line: 1887
+	tag: li target: li line: 1888
+	tag: li target: li line: 1889
+	tag: li target: li line: 1892
+	tag: li target: li line: 1894
+	tag: li target: li line: 1898
+	tag: li target: li line: 1899
+	tag: li target: li line: 1900
+	tag: li target: li line: 1908
+		attribute. key: class value: nv-view
+	tag: li target: li line: 1909
+		attribute. key: class value: nv-talk
+	tag: li target: li line: 1910
+		attribute. key: class value: nv-edit
+	tag: li target: li line: 1934
+		attribute. key: class value: toclevel-1 tocsection-1
+	tag: li target: li line: 1935
+		attribute. key: class value: toclevel-1 tocsection-2
+	tag: li target: li line: 1936
+		attribute. key: class value: toclevel-1 tocsection-3
+	tag: li target: li line: 1937
+		attribute. key: class value: toclevel-1 tocsection-4
+	tag: li target: li line: 1939
+		attribute. key: class value: toclevel-2 tocsection-5
+	tag: li target: li line: 1942
+		attribute. key: class value: toclevel-1 tocsection-6
+	tag: li target: li line: 1944
+		attribute. key: class value: toclevel-2 tocsection-7
+	tag: li target: li line: 1945
+		attribute. key: class value: toclevel-2 tocsection-8
+	tag: li target: li line: 1948
+		attribute. key: class value: toclevel-1 tocsection-9
+	tag: li target: li line: 1949
+		attribute. key: class value: toclevel-1 tocsection-10
+	tag: li target: li line: 1950
+		attribute. key: class value: toclevel-1 tocsection-11
+	tag: li target: li line: 1951
+		attribute. key: class value: toclevel-1 tocsection-12
+	tag: li target: li line: 2015
+	tag: li target: li line: 2016
+	tag: li target: li line: 2017
+	tag: li target: li line: 2018
+	tag: li target: li line: 2022
+	tag: li target: li line: 2023
+	tag: li target: li line: 2027
+	tag: li target: li line: 2031
+	tag: li target: li line: 2032
+	tag: li target: li line: 2033
+	tag: li target: li line: 2034
+	tag: li target: li line: 2035
+	tag: li target: li line: 2036
+	tag: li target: li line: 2037
+	tag: li target: li line: 2038
+	tag: li target: li line: 2039
+	tag: li target: li line: 2040
+	tag: li target: li line: 2044
+	tag: li target: li line: 2045
+	tag: li target: li line: 2046
+	tag: li target: li line: 2047
+	tag: li target: li line: 2052
+		attribute. key: id value: cite_note-Introduction-1
+	tag: li target: li line: 2056
+		attribute. key: id value: cite_note-2
+	tag: li target: li line: 2057
+		attribute. key: id value: cite_note-3
+	tag: li target: li line: 2069
+	tag: li target: li line: 2070
+	tag: li target: li line: 2071
+	tag: li target: li line: 2072
+	tag: li target: li line: 2073
+	tag: li target: li line: 2074
+	tag: li target: li line: 2075
+	tag: li target: li line: 2076
+	tag: li target: li line: 2086
+		attribute. key: class value: nv-view
+	tag: li target: li line: 2087
+		attribute. key: class value: nv-talk
+	tag: li target: li line: 2088
+		attribute. key: class value: nv-edit
+	tag: li target: li line: 2110
+	tag: li target: li line: 2111
+	tag: li target: li line: 2112
+	tag: li target: li line: 2113
+	tag: li target: li line: 2114
+	tag: li target: li line: 2115
+	tag: li target: li line: 2116
+	tag: li target: li line: 2117
+	tag: li target: li line: 2118
+	tag: li target: li line: 2119
+	tag: li target: li line: 2120
+	tag: li target: li line: 2121
+	tag: li target: li line: 2122
+	tag: li target: li line: 2123
+	tag: li target: li line: 2124
+	tag: li target: li line: 2125
+	tag: li target: li line: 2126
+	tag: li target: li line: 2127
+	tag: li target: li line: 2128
+	tag: li target: li line: 2129
+	tag: li target: li line: 2130
+	tag: li target: li line: 2131
+	tag: li target: li line: 2132
+	tag: li target: li line: 2133
+	tag: li target: li line: 2134
+	tag: li target: li line: 2135
+	tag: li target: li line: 2136
+	tag: li target: li line: 2137
+	tag: li target: li line: 2138
+	tag: li target: li line: 2139
+	tag: li target: li line: 2140
+	tag: li target: li line: 2141
+	tag: li target: li line: 2142
+	tag: li target: li line: 2143
+	tag: li target: li line: 2144
+	tag: li target: li line: 2145
+	tag: li target: li line: 2146
+	tag: li target: li line: 2147
+	tag: li target: li line: 2148
+	tag: li target: li line: 2149
+	tag: li target: li line: 2150
+	tag: li target: li line: 2151
+	tag: li target: li line: 2152
+	tag: li target: li line: 2153
+	tag: li target: li line: 2154
+	tag: li target: li line: 2155
+	tag: li target: li line: 2156
+	tag: li target: li line: 2171
+	tag: li target: li line: 2172
+	tag: li target: li line: 2173
+	tag: li target: li line: 2188
+	tag: li target: li line: 2189
+	tag: li target: li line: 2190
+	tag: li target: li line: 2191
+	tag: li target: li line: 2192
+	tag: li target: li line: 2193
+	tag: li target: li line: 2194
+	tag: li target: li line: 2195
+	tag: li target: li line: 2196
+	tag: li target: li line: 2197
+	tag: li target: li line: 2198
+	tag: li target: li line: 2199
+	tag: li target: li line: 2200
+	tag: li target: li line: 2201
+	tag: li target: li line: 2202
+	tag: li target: li line: 2203
+	tag: li target: li line: 2218
+	tag: li target: li line: 2233
+	tag: li target: li line: 2234
+	tag: li target: li line: 2235
+	tag: li target: li line: 2236
+	tag: li target: li line: 2251
+	tag: li target: li line: 2252
+	tag: li target: li line: 2253
+	tag: li target: li line: 2254
+	tag: li target: li line: 2255
+	tag: li target: li line: 2256
+	tag: li target: li line: 2272
+	tag: li target: li line: 2273
+	tag: li target: li line: 2274
+	tag: li target: li line: 2275
+	tag: li target: li line: 2276
+	tag: li target: li line: 2277
+	tag: li target: li line: 2278
+	tag: li target: li line: 2291
+	tag: li target: li line: 2292
+	tag: li target: li line: 2293
+	tag: li target: li line: 2294
+	tag: li target: li line: 2295
+	tag: li target: li line: 2296
+	tag: li target: li line: 2297
+	tag: li target: li line: 2310
+	tag: li target: li line: 2311
+	tag: li target: li line: 2312
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2342
+	tag: li target: li line: 2352
+		attribute. key: id value: pt-createaccount
+	tag: li target: li line: 2352
+		attribute. key: id value: pt-login
+	tag: li target: li line: 2358
+		attribute. key: id value: ca-nstab-main
+		attribute. key: class value: selected
+	tag: li target: li line: 2359
+		attribute. key: id value: ca-talk
+	tag: li target: li line: 2375
+		attribute. key: id value: ca-view
+		attribute. key: class value: selected
+	tag: li target: li line: 2376
+		attribute. key: id value: ca-edit
+	tag: li target: li line: 2377
+		attribute. key: id value: ca-history
+		attribute. key: class value: collapsible
+	tag: li target: li line: 2407
+		attribute. key: id value: n-mainpage-description
+	tag: li target: li line: 2408
+		attribute. key: id value: n-contents
+	tag: li target: li line: 2409
+		attribute. key: id value: n-featuredcontent
+	tag: li target: li line: 2410
+		attribute. key: id value: n-currentevents
+	tag: li target: li line: 2411
+		attribute. key: id value: n-randompage
+	tag: li target: li line: 2412
+		attribute. key: id value: n-sitesupport
+	tag: li target: li line: 2413
+		attribute. key: id value: n-shoplink
+	tag: li target: li line: 2422
+		attribute. key: id value: n-help
+	tag: li target: li line: 2423
+		attribute. key: id value: n-aboutsite
+	tag: li target: li line: 2424
+		attribute. key: id value: n-portal
+	tag: li target: li line: 2425
+		attribute. key: id value: n-recentchanges
+	tag: li target: li line: 2426
+		attribute. key: id value: n-contactpage
+	tag: li target: li line: 2435
+		attribute. key: id value: t-whatlinkshere
+	tag: li target: li line: 2436
+		attribute. key: id value: t-recentchangeslinked
+	tag: li target: li line: 2437
+		attribute. key: id value: t-upload
+	tag: li target: li line: 2438
+		attribute. key: id value: t-specialpages
+	tag: li target: li line: 2439
+		attribute. key: id value: t-permalink
+	tag: li target: li line: 2440
+		attribute. key: id value: t-info
+	tag: li target: li line: 2441
+		attribute. key: id value: t-wikibase
+	tag: li target: li line: 2442
+		attribute. key: id value: t-cite
+	tag: li target: li line: 2450
+		attribute. key: id value: coll-create_a_book
+	tag: li target: li line: 2451
+		attribute. key: id value: coll-download-as-rl
+	tag: li target: li line: 2452
+		attribute. key: id value: t-print
+	tag: li target: li line: 2461
+		attribute. key: class value: interlanguage-link interwiki-af
+	tag: li target: li line: 2462
+		attribute. key: class value: interlanguage-link interwiki-ar
+	tag: li target: li line: 2463
+		attribute. key: class value: interlanguage-link interwiki-ca
+	tag: li target: li line: 2464
+		attribute. key: class value: interlanguage-link interwiki-cs
+	tag: li target: li line: 2465
+		attribute. key: class value: interlanguage-link interwiki-de
+	tag: li target: li line: 2466
+		attribute. key: class value: interlanguage-link interwiki-et
+	tag: li target: li line: 2467
+		attribute. key: class value: interlanguage-link interwiki-es
+	tag: li target: li line: 2468
+		attribute. key: class value: interlanguage-link interwiki-eu
+	tag: li target: li line: 2469
+		attribute. key: class value: interlanguage-link interwiki-fa
+	tag: li target: li line: 2470
+		attribute. key: class value: interlanguage-link interwiki-fr
+	tag: li target: li line: 2471
+		attribute. key: class value: interlanguage-link interwiki-ko
+	tag: li target: li line: 2472
+		attribute. key: class value: interlanguage-link interwiki-id
+	tag: li target: li line: 2473
+		attribute. key: class value: interlanguage-link interwiki-it
+	tag: li target: li line: 2474
+		attribute. key: class value: interlanguage-link interwiki-he
+	tag: li target: li line: 2475
+		attribute. key: class value: interlanguage-link interwiki-hu
+	tag: li target: li line: 2476
+		attribute. key: class value: interlanguage-link interwiki-mk
+	tag: li target: li line: 2477
+		attribute. key: class value: interlanguage-link interwiki-ml
+	tag: li target: li line: 2478
+		attribute. key: class value: interlanguage-link interwiki-ms
+	tag: li target: li line: 2479
+		attribute. key: class value: interlanguage-link interwiki-nl
+	tag: li target: li line: 2480
+		attribute. key: class value: interlanguage-link interwiki-ja
+	tag: li target: li line: 2481
+		attribute. key: class value: interlanguage-link interwiki-no
+	tag: li target: li line: 2482
+		attribute. key: class value: interlanguage-link interwiki-nn
+	tag: li target: li line: 2483
+		attribute. key: class value: interlanguage-link interwiki-pl
+	tag: li target: li line: 2484
+		attribute. key: class value: interlanguage-link interwiki-pt
+	tag: li target: li line: 2485
+		attribute. key: class value: interlanguage-link interwiki-ru
+	tag: li target: li line: 2486
+		attribute. key: class value: interlanguage-link interwiki-simple
+	tag: li target: li line: 2487
+		attribute. key: class value: interlanguage-link interwiki-sk
+	tag: li target: li line: 2488
+		attribute. key: class value: interlanguage-link interwiki-sr
+	tag: li target: li line: 2489
+		attribute. key: class value: interlanguage-link interwiki-fi
+	tag: li target: li line: 2490
+		attribute. key: class value: interlanguage-link interwiki-sv
+	tag: li target: li line: 2491
+		attribute. key: class value: interlanguage-link interwiki-ta
+	tag: li target: li line: 2492
+		attribute. key: class value: interlanguage-link interwiki-th
+	tag: li target: li line: 2493
+		attribute. key: class value: interlanguage-link interwiki-tr
+	tag: li target: li line: 2494
+		attribute. key: class value: interlanguage-link interwiki-tk
+	tag: li target: li line: 2495
+		attribute. key: class value: interlanguage-link interwiki-uk
+	tag: li target: li line: 2496
+		attribute. key: class value: interlanguage-link interwiki-vi
+	tag: li target: li line: 2497
+		attribute. key: class value: interlanguage-link interwiki-zh
+	tag: li target: li line: 2506
+		attribute. key: id value: footer-info-lastmod
+	tag: li target: li line: 2507
+		attribute. key: id value: footer-info-copyright
+	tag: li target: li line: 2511
+		attribute. key: id value: footer-places-privacy
+	tag: li target: li line: 2512
+		attribute. key: id value: footer-places-about
+	tag: li target: li line: 2513
+		attribute. key: id value: footer-places-disclaimer
+	tag: li target: li line: 2514
+		attribute. key: id value: footer-places-contact
+	tag: li target: li line: 2515
+		attribute. key: id value: footer-places-developers
+	tag: li target: li line: 2516
+		attribute. key: id value: footer-places-mobileview
+	tag: li target: li line: 2519
+		attribute. key: id value: footer-copyrightico
+	tag: li target: li line: 2522
+		attribute. key: id value: footer-poweredbyico
+found 281 <li> tags
+	tag: ul target: ul line: 1781
+	tag: ul target: ul line: 1784
+	tag: ul target: ul line: 1795
+	tag: ul target: ul line: 1806
+	tag: ul target: ul line: 1815
+	tag: ul target: ul line: 1826
+	tag: ul target: ul line: 1834
+	tag: ul target: ul line: 1842
+	tag: ul target: ul line: 1850
+	tag: ul target: ul line: 1861
+	tag: ul target: ul line: 1870
+	tag: ul target: ul line: 1886
+	tag: ul target: ul line: 1891
+	tag: ul target: ul line: 1907
+	tag: ul target: ul line: 1933
+	tag: ul target: ul line: 1938
+	tag: ul target: ul line: 1943
+	tag: ul target: ul line: 2014
+	tag: ul target: ul line: 2021
+	tag: ul target: ul line: 2026
+	tag: ul target: ul line: 2030
+	tag: ul target: ul line: 2043
+	tag: ul target: ul line: 2068
+	tag: ul target: ul line: 2085
+	tag: ul target: ul line: 2109
+	tag: ul target: ul line: 2170
+	tag: ul target: ul line: 2187
+	tag: ul target: ul line: 2217
+	tag: ul target: ul line: 2232
+	tag: ul target: ul line: 2250
+	tag: ul target: ul line: 2271
+	tag: ul target: ul line: 2290
+	tag: ul target: ul line: 2309
+	tag: ul target: ul line: 2342
+	tag: ul target: ul line: 2342
+	tag: ul target: ul line: 2351
+	tag: ul target: ul line: 2357
+	tag: ul target: ul line: 2366
+	tag: ul target: ul line: 2374
+	tag: ul target: ul line: 2384
+	tag: ul target: ul line: 2406
+	tag: ul target: ul line: 2421
+	tag: ul target: ul line: 2434
+	tag: ul target: ul line: 2449
+	tag: ul target: ul line: 2460
+	tag: ul target: ul line: 2505
+		attribute. key: id value: footer-info
+	tag: ul target: ul line: 2510
+		attribute. key: id value: footer-places
+	tag: ul target: ul line: 2518
+		attribute. key: id value: footer-icons
+		attribute. key: class value: noprint
+found 48 <ul> tags
+	tag: tr target: tr line: 336
+	tag: tr target: tr line: 367
+		attribute. key: class value: frequency-options
+	tag: tr target: tr line: 371
+		attribute. key: class value: amount-options
+	tag: tr target: tr line: 389
+		attribute. key: class value: amount-options
+	tag: tr target: tr line: 409
+		attribute. key: class value: paymentmethod-options
+	tag: tr target: tr line: 1768
+	tag: tr target: tr line: 1776
+	tag: tr target: tr line: 1779
+	tag: tr target: tr line: 1881
+	tag: tr target: tr line: 1884
+	tag: tr target: tr line: 1904
+	tag: tr target: tr line: 2062
+	tag: tr target: tr line: 2079
+	tag: tr target: tr line: 2082
+	tag: tr target: tr line: 2094
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2097
+	tag: tr target: tr line: 2103
+	tag: tr target: tr line: 2161
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2164
+	tag: tr target: tr line: 2178
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2181
+	tag: tr target: tr line: 2208
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2211
+	tag: tr target: tr line: 2223
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2226
+	tag: tr target: tr line: 2241
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2244
+	tag: tr target: tr line: 2264
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2267
+	tag: tr target: tr line: 2283
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2286
+	tag: tr target: tr line: 2302
+		attribute. key: style value: height:2px;
+	tag: tr target: tr line: 2305
+found 33 <tr> tags
+	tag: td target: td line: 337
+		attribute. key: id value: B14_1003_enUS_dsk_rpt_2-facts
+	tag: td target: td line: 348
+		attribute. key: id value: B14_1003_enUS_dsk_rpt_2-form-wrapper
+	tag: td target: td line: 368
+		attribute. key: colspan value: 2
+	tag: td target: td line: 369
+		attribute. key: colspan value: 2
+	tag: td target: td line: 372
+	tag: td target: td line: 376
+	tag: td target: td line: 380
+	tag: td target: td line: 384
+	tag: td target: td line: 390
+	tag: td target: td line: 394
+	tag: td target: td line: 398
+	tag: td target: td line: 402
+	tag: td target: td line: 410
+		attribute. key: colspan value: 4
+	tag: td target: td line: 1769
+		attribute. key: class value: mbox-image
+	tag: td target: td line: 1772
+		attribute. key: class value: mbox-text
+	tag: td target: td line: 1780
+		attribute. key: class value: plainlist
+		attribute. key: style value: padding:0 0.1em 0.4em;padding-top:0.25em;;padding-top:0.5em;;
+	tag: td target: td line: 1885
+		attribute. key: class value: plainlist
+		attribute. key: style value: padding:0 0.1em 0.4em;padding-top:0.25em;;
+	tag: td target: td line: 1905
+		attribute. key: style value: text-align:right;font-size:115%;border-top:1px solid #aaa;;
+	tag: td target: td line: 2063
+		attribute. key: class value: mbox-image
+	tag: td target: td line: 2064
+		attribute. key: class value: mbox-text plainlist
+	tag: td target: td line: 2080
+		attribute. key: style value: padding:2px;
+	tag: td target: td line: 2095
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2100
+		attribute. key: class value: navbox-list navbox-odd hlist
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2107
+		attribute. key: class value: navbox-list navbox-odd
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2162
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2168
+		attribute. key: class value: navbox-list navbox-even
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2179
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2185
+		attribute. key: class value: navbox-list navbox-odd
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2209
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2215
+		attribute. key: class value: navbox-list navbox-even
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2224
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2230
+		attribute. key: class value: navbox-list navbox-odd
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2242
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2248
+		attribute. key: class value: navbox-list navbox-even
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2265
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2269
+		attribute. key: class value: navbox-list navbox-even hlist
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2284
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2288
+		attribute. key: class value: navbox-list navbox-odd hlist
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+	tag: td target: td line: 2303
+		attribute. key: colspan value: 2
+	tag: td target: td line: 2307
+		attribute. key: class value: navbox-list navbox-even hlist
+		attribute. key: style value: text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;
+found 40 <td> tags
